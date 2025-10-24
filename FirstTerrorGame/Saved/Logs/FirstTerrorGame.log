@@ -2585,3 +2585,5 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.10.24-10.39.38:512][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.24-10.39.38:512][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.24-10.39.38:513][921]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.10.24-10.40.05:806][404]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.24-10.40.10:148][595]LogSlate: Window 'Project Settings' being destroyed
