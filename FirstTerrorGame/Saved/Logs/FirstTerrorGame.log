@@ -2613,3 +2613,39 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.26-07.25.15:230][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.26-07.25.15:230][  4]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.26-07.25.15:230][  4]AssetCheck: /Game/HorrorGameContent/BPS/BP_MyOpenDoor Validating asset
+[2025.10.26-07.27.15:091][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8780.799805
+[2025.10.26-07.27.16:094][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-07.27.16:094][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8781.471680, Update Interval: 335.651733
+[2025.10.26-07.27.38:201][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-07.27.38:294][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.26-07.27.38:522][565]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.10.26-07.27.38:524][565]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMap37C014E44B06149B4C4CD6A76CE306CA.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.10.26-07.27.38:539][565]LogFileHelpers: Saving map 'HorrorGameMap' took 0.285
+[2025.10.26-07.27.38:546][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 345.484 ms (total: 3.63 sec)
+[2025.10.26-07.27.38:603][565]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-07.27.38:603][565]LogContentValidation: Enabled validators:
+[2025.10.26-07.27.38:603][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-07.27.38:603][565]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-07.27.38:603][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-07.27.38:603][565]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-07.27.38:603][565]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-07.27.38:603][565]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-07.27.38:603][565]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.10.26-07.32.11:010][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-07.32.11:064][892]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorGameContent/BPS/BP_MyOpenDoor] ([2] browsable assets)...
+[2025.10.26-07.32.11:064][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_MyOpenDoor]
+[2025.10.26-07.32.11:071][892]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_MyOpenDoor
+[2025.10.26-07.32.11:072][892]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_MyOpenDoorD255A4C24DE3B4FE7B6CC78C0813E33F.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_MyOpenDoor.uasset'
+[2025.10.26-07.32.11:081][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.793 ms (total: 3.70 sec)
+[2025.10.26-07.32.11:137][892]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-07.32.11:137][892]LogContentValidation: Enabled validators:
+[2025.10.26-07.32.11:137][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-07.32.11:137][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-07.32.11:137][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-07.32.11:137][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-07.32.11:137][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-07.32.11:137][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-07.32.11:137][892]AssetCheck: /Game/HorrorGameContent/BPS/BP_MyOpenDoor Validating asset
+[2025.10.26-07.33.34:533][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9159.813477
+[2025.10.26-07.33.34:666][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-07.33.34:666][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9159.928711, Update Interval: 314.044617
