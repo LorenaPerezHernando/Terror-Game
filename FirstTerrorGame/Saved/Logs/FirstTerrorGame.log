@@ -1386,3 +1386,115 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.26-05.35.07:369][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2053.887207
 [2025.10.26-05.35.07:529][784]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.26-05.35.07:530][784]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2054.036133, Update Interval: 349.928894
+[2025.10.26-05.41.27:843][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2434.363281
+[2025.10.26-05.41.28:842][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-05.41.28:842][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2435.031494, Update Interval: 326.518127
+[2025.10.26-05.47.48:211][757]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2814.734863
+[2025.10.26-05.47.49:212][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-05.47.49:212][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2815.402100, Update Interval: 327.441010
+[2025.10.26-05.53.52:169][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3178.688721
+[2025.10.26-05.53.52:336][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-05.53.52:336][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3178.838623, Update Interval: 311.241180
+[2025.10.26-05.55.27:811][ 99]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.26-05.55.27:861][ 99]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.26-05.55.27:869][ 99]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.26-05.55.27:908][101]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.26-05.55.36:381][223]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.10.26-05.55.36:399][223]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.26-05.55.47:720][862]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Collectable
+[2025.10.26-05.55.47:869][862]LogMetaData: Removing '/Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HorrorGameContent/BPS/NewBlueprint.PackageMetaData'
+[2025.10.26-05.55.47:870][862]LogMetaData: Removing '/Game/HorrorGameContent/BPS/BP_Collectable.SKEL_BP_Collectable_C:UserConstructionScript' ref from Metadata '/Game/HorrorGameContent/BPS/NewBlueprint.PackageMetaData'
+[2025.10.26-05.55.47:870][862]LogMetaData: Removing '/Game/HorrorGameContent/BPS/BP_Collectable.SKEL_BP_Collectable_C' ref from Metadata '/Game/HorrorGameContent/BPS/NewBlueprint.PackageMetaData'
+[2025.10.26-05.55.47:870][862]LogMetaData: Removing '/Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable_C' ref from Metadata '/Game/HorrorGameContent/BPS/NewBlueprint.PackageMetaData'
+[2025.10.26-05.55.47:870][862]LogMetaData: Removing '/Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HorrorGameContent/BPS/NewBlueprint.PackageMetaData'
+[2025.10.26-05.55.47:870][862]LogMetaData: Removing '/Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HorrorGameContent/BPS/NewBlueprint.PackageMetaData'
+[2025.10.26-05.55.47:870][862]LogMetaData: Removing '/Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HorrorGameContent/BPS/NewBlueprint.PackageMetaData'
+[2025.10.26-05.55.47:874][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-05.55.47:875][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Collectable] ([2] browsable assets)...
+[2025.10.26-05.55.47:875][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Collectable]
+[2025.10.26-05.55.47:886][862]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Collectable
+[2025.10.26-05.55.47:886][862]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_CollectableAEDF95D34632B23D1B127CB9DB6D8600.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Collectable.uasset'
+[2025.10.26-05.55.47:896][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.367 ms
+[2025.10.26-05.55.48:160][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.10.26-05.55.48:180][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.26-05.55.48:196][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.26-05.55.48:270][862]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-05.55.48:270][862]LogContentValidation: Enabled validators:
+[2025.10.26-05.55.48:270][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-05.55.48:270][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-05.55.48:270][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-05.55.48:270][862]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-05.55.48:270][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-05.55.48:270][862]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-05.55.48:271][862]AssetCheck: /Game/HorrorGameContent/BPS/BP_Collectable Validating asset
+[2025.10.26-05.55.53:525][985]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable
+[2025.10.26-05.55.53:526][985]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.26-05.55.56:852][141]LogSlate: Window 'BP_Collectable' being destroyed
+[2025.10.26-05.56.18:192][134]LogSlate: Took 0.006960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.26-05.56.18:210][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.26-05.56.50:315][774]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-05.56.50:345][774]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal) ...
+[2025.10.26-05.56.50:394][774]LogStaticMesh: Display: Building static mesh SM_Statue_Hooded_Metal (Required Memory Estimate: 32.257287 MB)...
+[2025.10.26-05.56.50:534][774]LogStaticMesh: Built static mesh [0.14s] /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal.SM_Statue_Hooded_Metal
+[2025.10.26-05.56.50:564][774]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.26-05.57.11:545][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.26-05.58.01:012][179]LogShaderCompilers: Display: ================================================
+[2025.10.26-05.58.01:013][179]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.26-05.58.01:013][179]LogShaderCompilers: Display: Total job queries 292, among them cache hits 45 (15.41%), DDC hits 175 (59.93%), Duplicates 67 (22.95%)
+[2025.10.26-05.58.01:013][179]LogShaderCompilers: Display: Tracking 180 distinct input hashes that result in 146 distinct outputs (81.11%)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: RAM used: 138.17 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Job execution time: average 2.30 s, max 2.70 s
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Job life time (pending + execution): average 2.33 s, max 2.73
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Shader code size: average 8 KiB, min 5.195 KiB, max 11.758 KiB
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.74 s
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Average processing rate: 1.83 jobs/sec
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Total thread time: 2.029 s
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Total thread preprocess time: 5.027 s
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Percentage time preprocessing: 247.74%
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Effective parallelization: 0.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.65% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.71% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.95% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.98% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.71% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: === Material stats ===
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Materials Translated:    142
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: Material Cache Hits: 18 (13%)
+[2025.10.26-05.58.01:021][179]LogShaderCompilers: Display: ================================================
+[2025.10.26-05.59.33:622][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3520.137695
+[2025.10.26-05.59.33:773][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-05.59.33:773][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3520.271240, Update Interval: 342.597137
+[2025.10.26-05.59.37:276][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.26-05.59.38:359][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-05.59.38:411][702]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Collectable] ([2] browsable assets)...
+[2025.10.26-05.59.38:459][702]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable]
+[2025.10.26-05.59.38:459][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Collectable]
+[2025.10.26-05.59.38:465][702]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Collectable
+[2025.10.26-05.59.38:466][702]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_CollectableC8CD96744E20A04EA6C037854C6F4C16.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Collectable.uasset'
+[2025.10.26-05.59.38:476][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.529 ms (total: 139.896 ms)
+[2025.10.26-05.59.38:539][702]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-05.59.38:539][702]LogContentValidation: Enabled validators:
+[2025.10.26-05.59.38:539][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-05.59.38:539][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-05.59.38:539][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-05.59.38:539][702]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-05.59.38:539][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-05.59.38:539][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-05.59.38:539][702]AssetCheck: /Game/HorrorGameContent/BPS/BP_Collectable Validating asset
