@@ -1880,3 +1880,203 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.28-08.48.59:729][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4384.259277
 [2025.10.28-08.48.59:912][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.28-08.48.59:912][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4384.399414, Update Interval: 359.723511
+[2025.10.28-08.51.19:087][918]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 31.95 ms. Compile time 29.41 ms, link time 2.51 ms.
+[2025.10.28-08.51.19:102][918]LogD3D12RHI: Creating RTPSO with 20 shaders (0 cached, 20 new) took 56.87 ms. Compile time 45.92 ms, link time 10.93 ms.
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.UW_Collectables_C' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.UW_Collectables:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.UW_Collectables:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.UW_Collectables:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.UW_Collectables:Get_TextMyObjects_Text.K2Node_FunctionResult_0' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.UW_Collectables:Get_TextMyObjects_Text.K2Node_FunctionEntry_0' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.SKEL_UW_Collectables_C' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.UW_Collectables:GetVisibility_0.K2Node_FunctionResult_0' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.UW_Collectables:GetVisibility_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.SKEL_UW_Collectables_C:Tick' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.SKEL_UW_Collectables_C:Construct' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:816][970]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Collectables.SKEL_UW_Collectables_C:PreConstruct' ref from Metadata '/Game/HorrorGameContent/Widgets/UW_Collectables.PackageMetaData'
+[2025.10.28-08.51.43:840][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-08.51.43:841][970]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.10.28-08.51.43:885][970]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.10.28-08.51.43:886][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.10.28-08.51.43:896][970]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.10.28-08.51.43:899][970]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacterAF0439D748FD30E2C6412D8E82B310A7.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.10.28-08.51.43:901][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorGameContent/BPS/Widgets/UW_Collectables] ([2] browsable assets)...
+[2025.10.28-08.51.43:901][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/Widgets/UW_Collectables]
+[2025.10.28-08.51.43:908][970]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/Widgets/UW_Collectables
+[2025.10.28-08.51.43:908][970]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_Collectables4FA3068C4566C20ABF35CD97F1F9145C.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/Widgets/UW_Collectables.uasset'
+[2025.10.28-08.51.43:912][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.744 ms (total: 4.30 sec)
+[2025.10.28-08.51.43:977][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.28-08.51.43:996][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.28-08.51.44:012][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.28-08.51.44:071][970]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.28-08.51.44:071][970]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.28-08.51.44:071][970]LogContentValidation: Enabled validators:
+[2025.10.28-08.51.44:071][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-08.51.44:071][970]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-08.51.44:071][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-08.51.44:071][970]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-08.51.44:071][970]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-08.51.44:071][970]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-08.51.44:071][970]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.10.28-08.51.44:072][970]AssetCheck: /Game/HorrorGameContent/BPS/Widgets/UW_Collectables Validating asset
+[2025.10.28-08.51.51:278][300]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.28-08.51.51:315][300]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.28-08.51.51:324][300]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.28-08.51.51:350][301]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.28-08.52.00:003][181]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2025.10.28-08.52.00:013][181]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.28-08.52.03:583][517]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy
+[2025.10.28-08.52.03:584][517]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.10.28-08.52.07:822][811]LogSlate: Window 'BP_Enemy' being destroyed
+[2025.10.28-08.52.09:175][946]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.52.09:175][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.52.09:286][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.28-08.52.10:069][ 18]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.52.10:069][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.52.10:077][ 18]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.52.10:077][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.52.10:128][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.10.28-08.52.11:559][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-08.52.11:559][159]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.52.11:559][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.52.11:640][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.28-08.55.59:232][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4803.770020
+[2025.10.28-08.56.00:564][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-08.56.00:564][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4804.769531, Update Interval: 326.168396
+[2025.10.28-08.58.59:028][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.28-08.58.59:032][296]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.026
+[2025.10.28-08.58.59:033][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.28-08.58.59:033][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.28-08.58.59:037][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorGameContent/BPS/BP_Enemy_Auto6
+[2025.10.28-08.58.59:037][296]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Enemy_Auto6973A520F426DDC49F492EDA4CA5C0A5D.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/HorrorGameContent/BPS/BP_Enemy_Auto6.uasset'
+[2025.10.28-08.58.59:039][296]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.10.28-09.02.00:942][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5165.477051
+[2025.10.28-09.02.01:942][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-09.02.01:942][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5166.142578, Update Interval: 322.471375
+[2025.10.28-09.08.17:506][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5542.039551
+[2025.10.28-09.08.18:509][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-09.08.18:509][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5542.709961, Update Interval: 320.795929
+[2025.10.28-09.14.21:185][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5905.724609
+[2025.10.28-09.14.22:182][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-09.14.22:182][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5906.389160, Update Interval: 354.094666
+[2025.10.28-09.15.14:568][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-09.15.14:629][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.28-09.15.14:629][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.28-09.15.14:635][333]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Enemy
+[2025.10.28-09.15.14:635][333]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Enemy9A97A85B43AC00BF39169C9D5DF8264B.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Enemy.uasset'
+[2025.10.28-09.15.14:648][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.402 ms (total: 4.38 sec)
+[2025.10.28-09.15.14:717][333]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-09.15.14:717][333]LogContentValidation: Enabled validators:
+[2025.10.28-09.15.14:717][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-09.15.14:717][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-09.15.14:717][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-09.15.14:717][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-09.15.14:717][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-09.15.14:717][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-09.15.14:717][333]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
+[2025.10.28-09.15.18:151][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-09.15.18:234][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.28-09.15.18:234][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.28-09.15.18:237][534]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Enemy
+[2025.10.28-09.15.18:239][534]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_EnemyF57371304DFE28BAF403E383168A240D.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Enemy.uasset'
+[2025.10.28-09.15.18:253][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.647 ms (total: 4.48 sec)
+[2025.10.28-09.15.18:321][534]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-09.15.18:321][534]LogContentValidation: Enabled validators:
+[2025.10.28-09.15.18:321][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-09.15.18:321][534]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-09.15.18:321][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-09.15.18:321][534]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-09.15.18:321][534]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-09.15.18:321][534]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-09.15.18:321][534]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
+[2025.10.28-09.15.20:638][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.10.28-09.15.20:715][671]LogStall: Shutdown...
+[2025.10.28-09.15.20:715][671]LogStall: Shutdown complete.
+[2025.10.28-09.15.20:766][671]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-09.15.20:766][671]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-09.15.20:766][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-09.15.20:863][671]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-09.15.20:864][671]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-09.15.20:864][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-09.15.20:945][671]LogSlate: Window 'FirstTerrorGame - Unreal Editor' being destroyed
+[2025.10.28-09.15.20:946][671]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.10.28-09.15.21:156][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.28-09.15.21:176][672]Cmd: QUIT_EDITOR
+[2025.10.28-09.15.21:177][672]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.28-09.15.21:189][672]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.28-09.15.21:190][672]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.28-09.15.21:190][672]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.28-09.15.21:213][672]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-09.15.21:213][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-09.15.21:231][672]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.28-09.15.21:234][672]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.28-09.15.21:243][672]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-09.15.21:243][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-09.15.21:246][672]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-09.15.21:246][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-09.15.21:248][672]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-09.15.21:249][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-09.15.21:252][672]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-09.15.21:252][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-09.15.21:255][672]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-09.15.21:255][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-09.15.21:262][672]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.28-09.15.21:267][672]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.10.28-09.15.21:268][672]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.10.28-09.15.21:268][672]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.10.28-09.15.22:274][672]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.28-09.15.22:274][672]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.28-09.15.22:274][672]LogAudio: Display: Audio Device unregistered from world 'HorrorGameMap'.
+[2025.10.28-09.15.22:274][672]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.28-09.15.22:274][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.28-09.15.22:277][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.28-09.15.22:285][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.28-09.15.22:285][672]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.28-09.15.22:289][672]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.28-09.15.22:289][672]LogExit: Preparing to exit.
+[2025.10.28-09.15.22:330][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.28-09.15.22:334][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:334][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:336][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:337][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:338][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:339][672]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:339][672]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-09.15.22:915][672]LogEditorDataStorage: Deinitializing
+[2025.10.28-09.15.23:264][672]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.28-09.15.23:317][672]LogExit: Editor shut down
+[2025.10.28-09.15.23:331][672]LogExit: Transaction tracking system shut down
+[2025.10.28-09.15.24:012][672]LogExit: Object subsystem successfully closed.
+[2025.10.28-09.15.24:045][672]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.28-09.15.24:794][672]LogMemoryProfiler: Shutdown
+[2025.10.28-09.15.24:795][672]LogNetworkingProfiler: Shutdown
+[2025.10.28-09.15.24:795][672]LoadingProfiler: Shutdown
+[2025.10.28-09.15.24:796][672]LogTimingProfiler: Shutdown
+[2025.10.28-09.15.25:560][672]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.28-09.15.25:563][672]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.10.28-09.15.25:563][672]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.28-09.15.25:565][672]RenderDocPlugin: plugin has been unloaded.
+[2025.10.28-09.15.25:585][672]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.28-09.15.25:585][672]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0CA36797-4AA8-823D-0CF0-90B8B94C0ADE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=0edfcf1e42633933151b309931aa859b%7C92060fe09839456d973c185c17ce2b61%7C9e4096be-0d25-4e10-8b25-d456ef711f25&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.28-09.15.26:135][672]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.28-09.15.26:143][672]LogXGEController: Cleaning working directory: C:/Users/34644/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.28-09.15.26:150][672]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.28-09.15.26:150][672]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.28-09.15.26:150][672]LogPakFile: Destroying PakPlatformFile
+[2025.10.28-09.15.26:474][672]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.28-09.15.26:523][672]LogExit: Exiting.
+[2025.10.28-09.15.26:558][672]Log file closed, 10/28/25 10:15:26
