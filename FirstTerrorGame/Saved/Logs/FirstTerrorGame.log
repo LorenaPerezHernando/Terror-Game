@@ -1376,3 +1376,26 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.28-07.37.43:933][263]LogSlate: Took 0.011078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2025.10.28-07.37.43:941][263]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
 [2025.10.28-07.37.43:952][263]LogSlate: Took 0.008758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.28-07.40.44:232][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.28-07.40.44:379][972]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-07.40.46:947][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.28-07.40.48:415][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.40.48:594][ 32]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/Widgets/UW_Collectables] ([2] browsable assets)...
+[2025.10.28-07.40.48:629][ 32]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HorrorGameContent/Widgets/UW_Collectables.UW_Collectables]
+[2025.10.28-07.40.48:629][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/Widgets/UW_Collectables]
+[2025.10.28-07.40.48:653][ 32]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Widgets/UW_Collectables
+[2025.10.28-07.40.48:656][ 32]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_Collectables46486EB3497CFB26AB22C182A706760C.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Widgets/UW_Collectables.uasset'
+[2025.10.28-07.40.48:706][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.138 ms
+[2025.10.28-07.40.48:811][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.40.48:811][ 32]LogContentValidation: Enabled validators:
+[2025.10.28-07.40.48:814][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.40.48:814][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.40.48:814][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.40.48:814][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.40.48:814][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.40.48:814][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.40.48:815][ 32]AssetCheck: /Game/HorrorGameContent/Widgets/UW_Collectables Validating asset
+[2025.10.28-07.41.32:739][138]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 337.231506
+[2025.10.28-07.41.32:897][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-07.41.32:897][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.369965, Update Interval: 345.385895
+[2025.10.28-07.42.00:370][122]LogSlate: Took 0.007195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
