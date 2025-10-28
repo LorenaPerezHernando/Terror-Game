@@ -1399,3 +1399,67 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.28-07.41.32:897][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.28-07.41.32:897][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.369965, Update Interval: 345.385895
 [2025.10.28-07.42.00:370][122]LogSlate: Took 0.007195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.28-07.45.09:473][661]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.28-07.45.09:564][662]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.28-07.46.11:607][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.28-07.46.11:611][980]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.050
+[2025.10.28-07.46.11:611][980]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Collectable] ([2] browsable assets)...
+[2025.10.28-07.46.11:783][980]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable]
+[2025.10.28-07.46.11:784][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Collectable]
+[2025.10.28-07.46.11:796][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorGameContent/BPS/BP_Collectable_Auto1
+[2025.10.28-07.46.11:799][980]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Collectable_Auto1A9A30F3B44C6543F486C169699D1D0AE.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/HorrorGameContent/BPS/BP_Collectable_Auto1.uasset'
+[2025.10.28-07.46.11:804][980]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/Widgets/UW_Collectables] ([2] browsable assets)...
+[2025.10.28-07.46.11:828][980]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HorrorGameContent/Widgets/UW_Collectables.UW_Collectables]
+[2025.10.28-07.46.11:828][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/Widgets/UW_Collectables]
+[2025.10.28-07.46.11:833][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorGameContent/Widgets/UW_Collectables_Auto1
+[2025.10.28-07.46.11:834][980]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_Collectables_Auto165BFC7004BF506CA14D4088D35280944.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/HorrorGameContent/Widgets/UW_Collectables_Auto1.uasset'
+[2025.10.28-07.46.11:838][980]LogFileHelpers: Auto-saving content packages took 0.227
+[2025.10.28-07.47.21:999][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 686.492615
+[2025.10.28-07.47.22:997][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-07.47.22:997][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 687.159302, Update Interval: 325.760071
+[2025.10.28-07.52.55:766][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1020.259094
+[2025.10.28-07.52.56:761][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-07.52.56:762][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1020.923157, Update Interval: 314.496887
+[2025.10.28-07.56.12:534][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.28-07.56.12:538][514]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.031
+[2025.10.28-07.56.12:539][514]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Collectable] ([2] browsable assets)...
+[2025.10.28-07.56.12:703][514]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable]
+[2025.10.28-07.56.12:704][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Collectable]
+[2025.10.28-07.56.12:717][514]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorGameContent/BPS/BP_Collectable_Auto2
+[2025.10.28-07.56.12:717][514]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Collectable_Auto2FBF0C5C246A8A7AB2885B3B6F817BFCB.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/HorrorGameContent/BPS/BP_Collectable_Auto2.uasset'
+[2025.10.28-07.56.12:842][514]LogFileHelpers: Auto-saving content packages took 0.303
+[2025.10.28-07.58.22:010][903]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1346.505493
+[2025.10.28-07.58.23:013][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-07.58.23:013][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1347.177612, Update Interval: 314.198425
+[2025.10.28-08.03.47:107][664]LogSlate: Took 0.045087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.10.28-08.04.02:237][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1686.733154
+[2025.10.28-08.04.03:237][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-08.04.03:237][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1687.402344, Update Interval: 315.734741
+[2025.10.28-08.06.13:389][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.28-08.06.13:393][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.133
+[2025.10.28-08.06.13:395][109]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/Widgets/UW_Collectables] ([2] browsable assets)...
+[2025.10.28-08.06.13:438][109]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HorrorGameContent/Widgets/UW_Collectables.UW_Collectables]
+[2025.10.28-08.06.13:438][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/Widgets/UW_Collectables]
+[2025.10.28-08.06.13:446][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorGameContent/Widgets/UW_Collectables_Auto3
+[2025.10.28-08.06.13:446][109]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_Collectables_Auto32A9217AC40BD58BE2397799302D2EB33.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/HorrorGameContent/Widgets/UW_Collectables_Auto3.uasset'
+[2025.10.28-08.06.13:452][109]LogFileHelpers: Auto-saving content packages took 0.058
+[2025.10.28-08.10.02:131][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2046.627563
+[2025.10.28-08.10.02:395][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-08.10.02:395][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2046.858521, Update Interval: 319.078339
+[2025.10.28-08.10.17:771][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.28-08.10.18:718][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-08.10.18:905][510]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Collectable] ([2] browsable assets)...
+[2025.10.28-08.10.19:009][510]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Collectable.BP_Collectable]
+[2025.10.28-08.10.19:009][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Collectable]
+[2025.10.28-08.10.19:016][510]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Collectable
+[2025.10.28-08.10.19:021][510]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Collectable7CE006CB4BA3A3CC8A2C6B98926E2DF2.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Collectable.uasset'
+[2025.10.28-08.10.19:068][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 351.215 ms (total: 642.354 ms)
+[2025.10.28-08.10.19:169][510]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-08.10.19:169][510]LogContentValidation: Enabled validators:
+[2025.10.28-08.10.19:169][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-08.10.19:169][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-08.10.19:169][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-08.10.19:169][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-08.10.19:169][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-08.10.19:169][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-08.10.19:169][510]AssetCheck: /Game/HorrorGameContent/BPS/BP_Collectable Validating asset
