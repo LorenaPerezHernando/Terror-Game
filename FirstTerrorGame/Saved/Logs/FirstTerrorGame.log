@@ -2593,3 +2593,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.29-18.48.48:313][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.29-18.48.48:313][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.29-18.48.48:313][735]AssetCheck: /Game/HorrorGameContent/BPS/BP_MyOpenDoor Validating asset
+[2025.10.29-18.49.29:740][313]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.10.29-18.49.29:751][313]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.29-18.49.58:887][ 51]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.10.29-18.49.58:897][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.29-18.49.59:849][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.29-18.50.00:673][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.50.00:754][141]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.29-18.50.00:813][141]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy]
+[2025.10.29-18.50.00:813][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.29-18.50.00:820][141]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Enemy
+[2025.10.29-18.50.00:821][141]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Enemy7A74414D4EF134E4F87929A5D0843F4B.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Enemy.uasset'
+[2025.10.29-18.50.00:831][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.622 ms (total: 3.74 sec)
+[2025.10.29-18.50.00:895][141]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.50.00:895][141]LogContentValidation: Enabled validators:
+[2025.10.29-18.50.00:895][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.50.00:895][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.50.00:895][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.50.00:895][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.50.00:895][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.50.00:895][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.50.00:895][141]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
