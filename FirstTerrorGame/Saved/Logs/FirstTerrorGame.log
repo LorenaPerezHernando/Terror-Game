@@ -1463,3 +1463,44 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.29-17.55.35:493][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.29-17.55.35:493][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.29-17.55.35:494][976]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
+[2025.10.29-17.56.46:206][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2089.513672
+[2025.10.29-17.56.47:209][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-17.56.47:209][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2090.180908, Update Interval: 320.252075
+[2025.10.29-17.57.19:529][193]LogBlueprint: Error: [AssetLog] C:\Users\34644\Desktop\MIS JUEGOS\Unreal\First-Terror-Game\FirstTerrorGame\Content\HorrorGameContent\BPS\BP_Enemy.uasset: [Compiler] The current value (0, 0, 0) of the ' Origin ' pin is invalid: 'Origin' in action 'Get Random Reachable Point in Radius' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.10.29-17.57.19:575][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.29-17.57.22:504][365]LogEditorTransaction: Undo Move Node
+[2025.10.29-17.58.27:648][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.29-17.58.48:853][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.29-17.58.49:870][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-17.58.49:924][654]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.29-17.58.49:979][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy]
+[2025.10.29-17.58.49:979][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.29-17.58.49:986][654]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Enemy
+[2025.10.29-17.58.49:987][654]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Enemy35F152A048229DA7B67DA4B28E47892E.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Enemy.uasset'
+[2025.10.29-17.58.49:997][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.122 ms (total: 258.359 ms)
+[2025.10.29-17.58.50:059][654]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-17.58.50:059][654]LogContentValidation: Enabled validators:
+[2025.10.29-17.58.50:059][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-17.58.50:059][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-17.58.50:059][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-17.58.50:059][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-17.58.50:059][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-17.58.50:059][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-17.58.50:059][654]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
+[2025.10.29-17.59.08:647][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.29-17.59.09:702][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-17.59.09:757][807]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.29-17.59.09:820][807]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy]
+[2025.10.29-17.59.09:820][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.29-17.59.09:825][807]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Enemy
+[2025.10.29-17.59.09:829][807]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_EnemyAC7E03314593BA10A237FEBF0AB541A0.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Enemy.uasset'
+[2025.10.29-17.59.09:841][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.919 ms (total: 397.278 ms)
+[2025.10.29-17.59.09:908][807]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-17.59.09:908][807]LogContentValidation: Enabled validators:
+[2025.10.29-17.59.09:908][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-17.59.09:908][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-17.59.09:908][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-17.59.09:908][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-17.59.09:908][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-17.59.09:908][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-17.59.09:908][807]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
