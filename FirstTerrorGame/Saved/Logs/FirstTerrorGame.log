@@ -2461,3 +2461,95 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.29-18.34.57:815][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.29-18.34.57:815][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.29-18.34.57:815][303]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
+[2025.10.29-18.35.50:455][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.35.50:564][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.29-18.35.50:794][134]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.10.29-18.35.50:796][134]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMapD602C20949914EE6B356409B2448640A.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.10.29-18.35.50:814][134]LogFileHelpers: Saving map 'HorrorGameMap' took 0.300
+[2025.10.29-18.35.50:826][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 366.910 ms (total: 2.96 sec)
+[2025.10.29-18.35.50:887][134]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.35.50:887][134]LogContentValidation: Enabled validators:
+[2025.10.29-18.35.50:887][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.35.50:887][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.35.50:887][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.35.50:887][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.35.50:887][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.35.50:887][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.35.50:889][134]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.10.29-18.35.51:873][193]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-18.35.51:891][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.29-18.35.51:891][193]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.10.29-18.35.51:946][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054644s)
+[2025.10.29-18.35.51:946][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.054679s)
+[2025.10.29-18.35.51:959][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.29-18.35.51:961][193]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.10.29-18.35.51:963][193]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2025.10.29-18.35.51:964][193]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.10.29-18.35.51:964][193]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-18.35.51:964][193]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-18.35.51:964][193]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-18.35.51:964][193]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-18.35.51:964][193]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.29-18.35.51:964][193]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-18.35.51:964][193]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.29-18.35.51:964][193]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-18.35.51:964][193]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-18.35.51:964][193]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-18.35.51:964][193]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-18.35.51:966][193]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-18.35.51:996][193]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.29-18.35.51:996][193]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-18.35.51:996][193]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-18.35.51:996][193]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-18.35.51:998][193]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.10.29-18.35.51:998][193]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.10.29-18.35.51:999][193]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.10.29-18.35.51:999][193]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.10.29-18.35.52:000][193]LogInit: FAudioDevice initialized with ID 15.
+[2025.10.29-18.35.52:000][193]LogAudio: Display: Audio Device (ID: 15) registered with world 'HorrorGameMap'.
+[2025.10.29-18.35.52:000][193]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.29-18.35.52:003][193]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.29-18.35.52:030][193]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 60) at 2025.10.29-19.35.52
+[2025.10.29-18.35.52:032][193]LogWorld: Bringing up level for play took: 0.029246
+[2025.10.29-18.35.52:035][193]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.10.29-18.35.52:041][193]PIE: Server logged in
+[2025.10.29-18.35.52:041][193]PIE: Play in editor total start time 0.151 seconds.
+[2025.10.29-18.35.56:309][437]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.10.29-18.36.30:134][466]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-96.99 Y=32.83 Z=0.00 Location: X=709.92 Y=644.84 Z=97.94 Normal: X=0.24 Y=0.97 Z=0.00 PenetrationDepth:5.915 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (0 other events since notify)
+[2025.10.29-18.36.31:135][526]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-69.21 Y=-192.75 Z=0.00 Location: X=715.20 Y=643.93 Z=129.29 Normal: X=0.25 Y=0.97 Z=0.00 PenetrationDepth:7.006 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (25 other events since notify)
+[2025.10.29-18.36.32:134][586]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=314.03 Y=358.90 Z=0.00 Location: X=715.83 Y=643.77 Z=129.44 Normal: X=0.27 Y=0.96 Z=0.00 PenetrationDepth:7.081 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (27 other events since notify)
+[2025.10.29-18.36.33:135][646]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=434.66 Y=-413.60 Z=0.00 Location: X=715.83 Y=643.77 Z=129.44 Normal: X=0.27 Y=0.96 Z=0.00 PenetrationDepth:7.030 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (59 other events since notify)
+[2025.10.29-18.36.35:217][771]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=100.62 Y=-19.01 Z=0.00 Location: X=715.76 Y=643.82 Z=129.44 Normal: X=0.27 Y=0.96 Z=0.00 PenetrationDepth:6.901 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (45 other events since notify)
+[2025.10.29-18.36.36:684][859]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-72.12 Y=72.70 Z=0.00 Location: X=715.57 Y=643.89 Z=129.44 Normal: X=0.27 Y=0.96 Z=0.00 PenetrationDepth:6.820 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (37 other events since notify)
+[2025.10.29-18.36.37:684][919]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=130.68 Y=-39.21 Z=0.00 Location: X=715.74 Y=643.85 Z=129.44 Normal: X=0.28 Y=0.96 Z=0.00 PenetrationDepth:6.759 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (43 other events since notify)
+[2025.10.29-18.36.38:685][979]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-392.72 Y=-453.62 Z=0.00 Location: X=715.58 Y=643.89 Z=129.44 Normal: X=0.28 Y=0.96 Z=0.00 PenetrationDepth:6.698 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (56 other events since notify)
+[2025.10.29-18.36.39:718][ 41]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=31.69 Y=-12.68 Z=0.00 Location: X=715.51 Y=643.91 Z=129.44 Normal: X=0.28 Y=0.96 Z=0.00 PenetrationDepth:6.668 Actor:BP_Enemy_C_3 Component:Cube BoneName:None (46 other events since notify)
+[2025.10.29-18.36.41:136][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-18.36.41:136][124]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.10.29-18.36.41:137][124]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-18.36.41:146][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.36.41:149][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-18.36.41:154][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.36.41:169][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-18.36.41:171][124]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.29-18.36.41:171][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.10.29-18.36.41:174][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.10.29-18.36.41:186][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.29-18.36.41:287][125]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.10.29-18.36.54:547][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.29-18.36.55:403][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.36.55:452][950]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.29-18.36.55:462][950]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy]
+[2025.10.29-18.36.55:462][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.29-18.36.55:469][950]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Enemy
+[2025.10.29-18.36.55:472][950]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Enemy9F9ACEF94CCE34F9DE1ED388FC1E4ACE.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Enemy.uasset'
+[2025.10.29-18.36.55:483][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.127 ms (total: 3.04 sec)
+[2025.10.29-18.36.55:537][950]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.36.55:537][950]LogContentValidation: Enabled validators:
+[2025.10.29-18.36.55:537][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.36.55:537][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.36.55:537][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.36.55:537][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.36.55:537][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.36.55:537][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.36.55:537][950]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
