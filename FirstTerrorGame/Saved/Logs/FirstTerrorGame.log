@@ -1504,3 +1504,172 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.29-17.59.09:908][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.29-17.59.09:908][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.29-17.59.09:908][807]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
+[2025.10.29-17.59.57:764][498]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-17.59.57:764][498]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-17.59.57:766][498]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_0
+[2025.10.29-17.59.57:770][498]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_0
+[2025.10.29-17.59.58:141][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.29-17.59.58:143][519]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.10.29-17.59.59:198][582]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2025.10.29-18.00.10:433][ 15]Cmd: TRANSACTION UNDO
+[2025.10.29-18.00.10:433][ 15]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.29-18.00.10:829][ 34]Cmd: TRANSACTION UNDO
+[2025.10.29-18.00.10:829][ 34]LogEditorTransaction: Undo Move World Outliner Items
+[2025.10.29-18.00.11:827][ 92]Cmd: TRANSACTION UNDO
+[2025.10.29-18.00.11:827][ 92]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.29-18.00.12:280][119]Cmd: TRANSACTION UNDO
+[2025.10.29-18.00.12:281][119]LogEditorTransaction: Undo Rename Folder
+[2025.10.29-18.00.29:424][127]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.00.29:424][127]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.00.29:424][127]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_1
+[2025.10.29-18.00.29:425][127]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_1
+[2025.10.29-18.00.29:981][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.29-18.00.29:983][159]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.10.29-18.00.45:992][114]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.00.45:992][114]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.00.45:992][114]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_2
+[2025.10.29-18.00.45:994][114]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_2
+[2025.10.29-18.00.46:850][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.29-18.00.46:851][165]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.10.29-18.00.53:579][566]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.00.53:579][566]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.00.53:580][566]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_3
+[2025.10.29-18.00.53:581][566]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_3
+[2025.10.29-18.00.54:217][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.29-18.00.54:220][604]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.10.29-18.01.01:824][ 59]Cmd: DELETE
+[2025.10.29-18.01.01:824][ 59]Cmd: ACTOR DELETE
+[2025.10.29-18.01.01:858][ 59]LogEditorActor: Deleted Actor: RecastNavMesh
+[2025.10.29-18.01.01:859][ 59]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.29-18.01.01:872][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.29-18.01.01:874][ 59]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.29-18.01.04:329][204]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.01.04:329][204]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.01.04:330][204]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_4
+[2025.10.29-18.01.04:330][204]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_4
+[2025.10.29-18.01.04:987][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.29-18.01.04:989][243]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.10.29-18.01.05:408][268]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2025.10.29-18.01.27:908][593]LogSlate: Window 'Details' being destroyed
+[2025.10.29-18.01.40:391][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.01.40:488][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.29-18.01.40:725][ 46]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.10.29-18.01.40:728][ 46]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMapB0EAD1A5479504ED64D4EF94F68E8660.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.10.29-18.01.40:744][ 46]LogFileHelpers: Saving map 'HorrorGameMap' took 0.296
+[2025.10.29-18.01.40:753][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 363.079 ms (total: 760.357 ms)
+[2025.10.29-18.01.40:811][ 46]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.01.40:811][ 46]LogContentValidation: Enabled validators:
+[2025.10.29-18.01.40:811][ 46]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.01.40:811][ 46]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.01.40:811][ 46]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.01.40:811][ 46]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.01.40:811][ 46]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.01.40:811][ 46]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.01.40:811][ 46]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.10.29-18.01.56:285][892]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.01.56:285][892]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.01.56:287][892]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_5
+[2025.10.29-18.01.56:288][892]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_5
+[2025.10.29-18.01.57:076][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.29-18.01.57:076][939]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.10.29-18.01.58:646][ 32]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.01.58:647][ 32]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.01.58:647][ 32]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_6
+[2025.10.29-18.01.58:648][ 32]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_6
+[2025.10.29-18.02.00:537][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.29-18.02.00:538][144]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.10.29-18.02.00:545][144]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.02.00:545][144]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.29-18.02.00:548][144]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_7
+[2025.10.29-18.02.00:549][144]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.NavMeshBoundsVolume_7
+[2025.10.29-18.02.08:700][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.02.08:787][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.29-18.02.09:006][627]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.10.29-18.02.09:008][627]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMapAB90B4FA40AFA0C6F76C11827450B9AB.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.10.29-18.02.09:024][627]LogFileHelpers: Saving map 'HorrorGameMap' took 0.270
+[2025.10.29-18.02.09:039][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 332.754 ms (total: 1.09 sec)
+[2025.10.29-18.02.09:097][627]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.02.09:097][627]LogContentValidation: Enabled validators:
+[2025.10.29-18.02.09:097][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.02.09:097][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.02.09:097][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.02.09:097][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.02.09:097][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.02.09:097][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.02.09:097][627]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.10.29-18.03.06:937][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2470.219971
+[2025.10.29-18.03.07:107][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-18.03.07:107][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2470.372803, Update Interval: 345.030670
+[2025.10.29-18.03.28:616][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.03.28:704][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.29-18.03.28:940][180]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.10.29-18.03.28:942][180]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMapD4FDE66C463A5678D0297EA599FC848A.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.10.29-18.03.28:958][180]LogFileHelpers: Saving map 'HorrorGameMap' took 0.291
+[2025.10.29-18.03.28:965][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 349.855 ms (total: 1.44 sec)
+[2025.10.29-18.03.29:032][180]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.03.29:032][180]LogContentValidation: Enabled validators:
+[2025.10.29-18.03.29:032][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.03.29:032][180]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.03.29:032][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.03.29:032][180]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.03.29:032][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.03.29:032][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.03.29:032][180]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.10.29-18.04.10:296][633]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 40.04 ms. Compile time 35.76 ms, link time 4.25 ms.
+[2025.10.29-18.04.10:476][634]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: ================================================
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Total job queries 358, among them cache hits 51 (14.25%), DDC hits 197 (55.03%), Duplicates 67 (18.72%)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Tracking 240 distinct input hashes that result in 184 distinct outputs (76.67%)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: RAM used: 150.48 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Shaders Compiled: 43
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100%)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Average time worker was idle: 51.02 s
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Job execution time: average 0.74 s, max 2.16 s
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Job life time (pending + execution): average 0.79 s, max 2.22
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Shader code size: average 8.333 KiB, min 3.188 KiB, max 13.262 KiB
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.49 s
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Average processing rate: 4.53 jobs/sec
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Total thread time: 16.627 s
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Total thread preprocess time: 6.253 s
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Percentage time preprocessing: 37.61%
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.74 sec, max 0.78 sec, min 0.68 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 0.71 sec, max 0.74 sec, min 0.67 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.41 sec, max 0.48 sec, min 0.37 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.11% of total time (compiled    7 times, average 0.41 sec, max 0.48 sec, min 0.37 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.09% of total time (compiled    4 times, average 0.71 sec, max 0.74 sec, min 0.67 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.81% of total time (compiled    8 times, average 0.29 sec, max 0.30 sec, min 0.24 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.41% of total time (compiled    3 times, average 0.74 sec, max 0.78 sec, min 0.68 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.51% of total time (compiled    7 times, average 0.30 sec, max 0.36 sec, min 0.26 sec)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: === Material stats ===
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Materials Translated:    144
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Material Translation Only: 0.06 s (47%)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: Material Cache Hits: 22 (15%)
+[2025.10.29-18.04.11:331][680]LogShaderCompilers: Display: ================================================
+[2025.10.29-18.05.05:458][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.05.05:560][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.29-18.05.05:800][710]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.10.29-18.05.05:802][710]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMapB380311E48AF319DA5BB98B5A290E3B0.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.10.29-18.05.05:818][710]LogFileHelpers: Saving map 'HorrorGameMap' took 0.306
+[2025.10.29-18.05.05:831][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 372.438 ms (total: 1.81 sec)
+[2025.10.29-18.05.05:881][710]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.05.05:881][710]LogContentValidation: Enabled validators:
+[2025.10.29-18.05.05:881][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.05.05:881][710]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.05.05:881][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.05.05:881][710]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.05.05:881][710]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.05.05:881][710]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.05.05:881][710]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
