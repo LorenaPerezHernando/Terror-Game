@@ -2294,3 +2294,60 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.29-18.14.39:771][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.29-18.14.39:771][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.29-18.14.39:772][103]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.10.29-18.16.13:863][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3257.133789
+[2025.10.29-18.16.14:860][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-18.16.14:860][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3257.802734, Update Interval: 321.733459
+[2025.10.29-18.22.23:624][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3626.897949
+[2025.10.29-18.22.24:618][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-18.22.24:618][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3627.560791, Update Interval: 337.385773
+[2025.10.29-18.23.36:417][755]LogDerivedDataCache: C:/Users/34644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.29-18.24.21:756][698]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-18.24.21:774][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.29-18.24.21:775][698]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.10.29-18.24.21:836][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061136s)
+[2025.10.29-18.24.21:836][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.061180s)
+[2025.10.29-18.24.21:854][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.29-18.24.21:856][698]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.10.29-18.24.21:858][698]LogPlayLevel: PIE: World Init took: (0.001743s)
+[2025.10.29-18.24.21:859][698]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.10.29-18.24.21:859][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-18.24.21:859][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-18.24.21:859][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-18.24.21:859][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-18.24.21:859][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.29-18.24.21:859][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-18.24.21:859][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.29-18.24.21:859][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-18.24.21:859][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-18.24.21:859][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-18.24.21:859][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-18.24.21:861][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-18.24.21:889][698]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.29-18.24.21:890][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-18.24.21:890][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-18.24.21:890][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-18.24.21:890][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.10.29-18.24.21:890][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.10.29-18.24.21:892][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.10.29-18.24.21:892][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.10.29-18.24.21:892][698]LogInit: FAudioDevice initialized with ID 13.
+[2025.10.29-18.24.21:892][698]LogAudio: Display: Audio Device (ID: 13) registered with world 'HorrorGameMap'.
+[2025.10.29-18.24.21:892][698]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.29-18.24.21:894][698]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.29-18.24.21:922][698]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 60) at 2025.10.29-19.24.21
+[2025.10.29-18.24.21:924][698]LogWorld: Bringing up level for play took: 0.028450
+[2025.10.29-18.24.21:926][698]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.10.29-18.24.21:933][698]PIE: Server logged in
+[2025.10.29-18.24.21:934][698]PIE: Play in editor total start time 0.159 seconds.
+[2025.10.29-18.24.33:162][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-18.24.33:162][356]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.10.29-18.24.33:163][356]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-18.24.33:172][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.24.33:176][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-18.24.33:182][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.24.33:200][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-18.24.33:203][356]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.29-18.24.33:203][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.29-18.24.33:206][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.29-18.24.33:219][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.29-18.24.33:322][357]LogPlayLevel: Display: Destroying online subsystem :Context_21
