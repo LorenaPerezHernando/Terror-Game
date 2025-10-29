@@ -2441,3 +2441,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.29-18.30.17:723][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
 [2025.10.29-18.30.17:736][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
 [2025.10.29-18.30.17:840][325]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.10.29-18.34.39:548][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4362.828613
+[2025.10.29-18.34.40:550][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-18.34.40:550][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4363.496094, Update Interval: 343.441284
+[2025.10.29-18.34.56:765][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.29-18.34.57:613][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.34.57:666][303]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.29-18.34.57:729][303]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy]
+[2025.10.29-18.34.57:729][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.29-18.34.57:736][303]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Enemy
+[2025.10.29-18.34.57:738][303]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Enemy9C00989E4A6E7408CB56B6B1C83A268A.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Enemy.uasset'
+[2025.10.29-18.34.57:748][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.123 ms (total: 2.60 sec)
+[2025.10.29-18.34.57:815][303]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.34.57:815][303]LogContentValidation: Enabled validators:
+[2025.10.29-18.34.57:815][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.34.57:815][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.34.57:815][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.34.57:815][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.34.57:815][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.34.57:815][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.34.57:815][303]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
