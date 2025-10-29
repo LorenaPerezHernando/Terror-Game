@@ -2553,3 +2553,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.29-18.36.55:537][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.29-18.36.55:537][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.29-18.36.55:537][950]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
+[2025.10.29-18.39.37:673][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-18.39.37:776][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.29-18.39.38:010][684]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.10.29-18.39.38:012][684]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMapB6A3B327422AC9D00D48FA881896203B.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.10.29-18.39.38:029][684]LogFileHelpers: Saving map 'HorrorGameMap' took 0.306
+[2025.10.29-18.39.38:038][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 363.730 ms (total: 3.41 sec)
+[2025.10.29-18.39.38:097][684]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-18.39.38:097][684]LogContentValidation: Enabled validators:
+[2025.10.29-18.39.38:097][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-18.39.38:097][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-18.39.38:097][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-18.39.38:097][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-18.39.38:097][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-18.39.38:097][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-18.39.38:097][684]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
