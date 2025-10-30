@@ -1374,3 +1374,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.30-20.44.01:867][245]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
 [2025.10.30-20.44.02:217][245]LogSlate: Took 0.006797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2025.10.30-20.44.02:373][245]LogAutomationController: Ignoring very large delta of 2.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.30-20.44.35:664][744]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 27.92 ms. Compile time 25.09 ms, link time 2.80 ms.
+[2025.10.30-20.44.59:746][154]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.10.30-20.45.27:557][757]LogDerivedDataCache: C:/Users/34644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-20.45.54:227][325]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.30-20.45.54:278][326]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.30-20.46.02:083][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-20.46.02:225][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.30-20.46.02:463][779]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.10.30-20.46.02:466][779]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMapF8529E9A41D7E9AD997C50AAC6502B96.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.10.30-20.46.02:485][779]LogFileHelpers: Saving map 'HorrorGameMap' took 0.349
+[2025.10.30-20.46.02:492][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 409.889 ms
+[2025.10.30-20.46.02:557][779]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-20.46.02:557][779]LogContentValidation: Enabled validators:
+[2025.10.30-20.46.02:558][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-20.46.02:558][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-20.46.02:558][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-20.46.02:558][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-20.46.02:558][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-20.46.02:558][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-20.46.02:559][779]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
