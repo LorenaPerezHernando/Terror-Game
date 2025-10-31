@@ -1375,3 +1375,46 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.31-09.06.45:236][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 367.680542
 [2025.10.31-09.06.46:232][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.31-09.06.46:232][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 368.344421, Update Interval: 332.463745
+[2025.10.31-09.12.22:626][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 705.070312
+[2025.10.31-09.12.23:632][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.12.23:632][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 705.740662, Update Interval: 346.242859
+[2025.10.31-09.18.17:004][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1059.449707
+[2025.10.31-09.18.18:004][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.18.18:004][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1060.116333, Update Interval: 304.998932
+[2025.10.31-09.23.38:076][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1380.522095
+[2025.10.31-09.23.39:081][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.23.39:081][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1381.183472, Update Interval: 300.314941
+[2025.10.31-09.28.56:786][205]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1699.232056
+[2025.10.31-09.28.57:787][208]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.28.57:787][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1699.905151, Update Interval: 319.605713
+[2025.10.31-09.35.11:196][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2073.644287
+[2025.10.31-09.35.12:201][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.35.12:201][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2074.315430, Update Interval: 353.700989
+[2025.10.31-09.41.46:729][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2469.181152
+[2025.10.31-09.41.47:732][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.41.47:732][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2469.851074, Update Interval: 311.686157
+[2025.10.31-09.47.36:872][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2819.327148
+[2025.10.31-09.47.37:875][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.47.37:875][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2819.998047, Update Interval: 335.038300
+[2025.10.31-09.53.44:983][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3187.436523
+[2025.10.31-09.53.45:983][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.53.45:983][670]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3188.102539, Update Interval: 328.865631
+[2025.10.31-09.58.20:116][750]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.31-09.58.20:159][750]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.31-09.58.20:205][751]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.31-09.58.22:802][830]LogContentBrowser: Attempting asset rename: NewFolder -> Enemy
+[2025.10.31-09.58.22:805][830]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.31-09.58.26:345][932]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.31-09.58.26:384][932]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.31-09.58.26:468][934]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.31-09.58.28:726][  3]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2025.10.31-09.58.28:727][  3]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.31-09.58.49:829][368]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.31-09.58.50:089][368]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/34644/Downloads/T-Pose.fbx]
+[2025.10.31-09.58.59:472][368]LogSlate: Window 'Import Content' being destroyed
+[2025.10.31-09.58.59:596][368]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-09.58.59:739][369]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.10.31-09.58.59:740][369]LogInterchangeEngine: [Success] Import Canceled
+[2025.10.31-09.59.55:228][645]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3557.683838
+[2025.10.31-09.59.56:222][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-09.59.56:223][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3558.348877, Update Interval: 341.328156
