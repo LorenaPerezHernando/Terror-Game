@@ -1418,3 +1418,152 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.31-09.59.55:228][645]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3557.683838
 [2025.10.31-09.59.56:222][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.31-09.59.56:223][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3558.348877, Update Interval: 341.328156
+[2025.10.31-10.00.54:905][993]LogSlate: Took 0.000559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.31-10.02.21:930][994]LogDerivedDataCache: C:/Users/34644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.31-10.02.56:732][994]LogSlate: Window 'Import Content' being destroyed
+[2025.10.31-10.02.56:811][994]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.01:897][994]LogSkeletalMesh: Building Skeletal Mesh T-Pose...
+[2025.10.31-10.03.02:983][994]LogSkeletalMesh: Built Skeletal Mesh [1.09s] /Game/Enemy/T-Pose.T-Pose
+[2025.10.31-10.03.04:363][994]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.31-10.03.04:424][994]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-10.03.04:426][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-10.03.04:582][994]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.04:582][994]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.19:142][995]LogSlate: Window 'Interchange Preview' being destroyed
+[2025.10.31-10.03.21:983][995]LogSlate: Window 'Import Content' being destroyed
+[2025.10.31-10.03.22:067][995]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.22:072][995]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.10.31-10.03.22:072][995]LogInterchangeEngine: [Success] Import Canceled
+[2025.10.31-10.03.22:520][995]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2025.10.31-10.03.33:189][996]LogSlate: Window 'Import Content' being destroyed
+[2025.10.31-10.03.33:265][996]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.33:265][996]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.10.31-10.03.33:265][996]LogInterchangeEngine: [Success] Import Canceled
+[2025.10.31-10.03.34:774][997]LogSlate: Window 'Import Content' being destroyed
+[2025.10.31-10.03.34:860][997]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.34:860][997]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.10.31-10.03.34:860][997]LogInterchangeEngine: [Success] Import Canceled
+[2025.10.31-10.03.36:482][998]LogSlate: Window 'Import Content' being destroyed
+[2025.10.31-10.03.36:560][998]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.36:560][998]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.10.31-10.03.36:560][998]LogInterchangeEngine: [Success] Import Canceled
+[2025.10.31-10.03.36:597][999]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.10.31-10.03.40:812][147]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.41:047][147]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.41:047][147]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.41:226][148]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.41:425][148]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.41:425][148]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.41:641][149]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.41:842][149]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.41:842][149]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.42:003][150]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.42:491][150]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.42:491][150]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.42:657][151]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.43:178][151]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.43:178][151]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.43:339][152]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.43:521][152]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.43:521][152]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.43:742][153]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.44:520][153]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.44:520][153]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.44:696][154]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.03.45:469][154]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.31-10.03.45:469][154]LogInterchangeEngine: [Success] Import Done
+[2025.10.31-10.03.48:603][258]AssetReimport: Reimported asset Ch25_1001_Glossiness from C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/T-Pose.fbm/Ch25_1001_Glossiness.png.
+[2025.10.31-10.03.48:603][258]AssetReimport: Reimported asset Ch25_1002_Specular from C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/T-Pose.fbm/Ch25_1002_Specular.png.
+[2025.10.31-10.03.48:603][258]AssetReimport: Reimported asset Ch25_1001_Specular from C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/T-Pose.fbm/Ch25_1001_Specular.png.
+[2025.10.31-10.03.48:603][258]AssetReimport: Reimported asset Ch25_1002_Diffuse from C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/T-Pose.fbm/Ch25_1002_Diffuse.png.
+[2025.10.31-10.03.48:603][258]AssetReimport: Reimported asset Ch25_1001_Diffuse from C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/T-Pose.fbm/Ch25_1001_Diffuse.png.
+[2025.10.31-10.03.48:603][258]AssetReimport: Reimported asset Ch25_1002_Glossiness from C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/T-Pose.fbm/Ch25_1002_Glossiness.png.
+[2025.10.31-10.03.48:603][258]AssetReimport: Reimported asset Ch25_1001_Normal from C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/T-Pose.fbm/Ch25_1001_Normal.png.
+[2025.10.31-10.03.48:603][258]AssetReimport: Reimported asset Ch25_1002_Normal from C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/T-Pose.fbm/Ch25_1002_Normal.png.
+[2025.10.31-10.03.49:247][285]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.10.31-10.03.49:345][289]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.31-10.03.49:492][290]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.31-10.03.49:544][291]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.31-10.03.49:600][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.31-10.03.49:649][293]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.31-10.03.50:187][310]LogShaderCompilers: Display: ================================================
+[2025.10.31-10.03.50:187][310]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.31-10.03.50:187][310]LogShaderCompilers: Display: Total job queries 306, among them cache hits 31 (10.13%), DDC hits 175 (57.19%), Duplicates 85 (27.78%)
+[2025.10.31-10.03.50:187][310]LogShaderCompilers: Display: Tracking 190 distinct input hashes that result in 148 distinct outputs (77.89%)
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: RAM used: 138.94 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Shaders Compiled: 15
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Job execution time: average 5.18 s, max 6.40 s
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Job life time (pending + execution): average 5.25 s, max 6.48
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Shader code size: average 9.798 KiB, min 5.488 KiB, max 14.297 KiB
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.48 s
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.88 jobs/batch
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Average processing rate: 2.32 jobs/sec
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Total thread time: 19.394 s
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Total thread preprocess time: 5.412 s
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Percentage time preprocessing: 27.91%
+[2025.10.31-10.03.50:188][310]LogShaderCompilers: Display: Effective parallelization: 2.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 3.01 sec, max 3.05 sec, min 2.96 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 2.17 sec, max 2.17 sec, min 2.17 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 2.03 sec, max 2.03 sec, min 2.03 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.13 sec, max 1.13 sec, min 1.12 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                                             FDebugViewModePS - 30.99% of total time (compiled    2 times, average 3.01 sec, max 3.05 sec, min 2.96 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.61% of total time (compiled    2 times, average 1.13 sec, max 1.13 sec, min 1.12 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.33% of total time (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.17% of total time (compiled    1 times, average 2.17 sec, max 2.17 sec, min 2.17 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.45% of total time (compiled    1 times, average 2.03 sec, max 2.03 sec, min 2.03 sec)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: === Material stats ===
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: Materials Translated:    147
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: Material Translation Only: 0.05 s (46%)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: Material Cache Hits: 24 (16%)
+[2025.10.31-10.03.50:189][310]LogShaderCompilers: Display: ================================================
+[2025.10.31-10.04.12:002][ 18]LogStreaming: Display: FlushAsyncLoading(565): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.31-10.04.12:113][ 18]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/Animations/Mutant Walking.fbx]
+[2025.10.31-10.04.12:226][ 18]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.10.31-10.04.12:256][ 18]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.10.31-10.04.37:649][ 18]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.10.31-10.04.40:140][ 18]LogSlate: Window 'Interchange Preview' being destroyed
+[2025.10.31-10.04.42:865][ 18]LogSlate: Window 'Import Content' being destroyed
+[2025.10.31-10.04.42:949][ 18]LogInterchangeEngine: [Pending] Importing
+[2025.10.31-10.04.42:962][ 18]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.31-10.04.42:973][ 18]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.31-10.04.42:986][ 18]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.31-10.04.43:057][ 19]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.31-10.04.43:057][ 19]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.31-10.04.43:057][ 19]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.10.31-10.04.43:057][ 19]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.10.31-10.04.43:057][ 19]LogInterchangeEngine: [Success] Import Canceled
+[2025.10.31-10.06.18:342][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3940.799316
+[2025.10.31-10.06.18:975][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-10.06.18:975][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3941.325439, Update Interval: 359.888306
+[2025.10.31-10.06.23:677][658]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.10.31-10.06.23:797][659]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.31-10.06.39:416][295]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.31-10.07.44:404][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2025.10.31-10.07.45:464][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-10.07.45:576][159]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.10.31-10.07.45:577][159]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.31-10.07.45:662][159]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy_C]
+[2025.10.31-10.07.45:671][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy]
+[2025.10.31-10.07.45:671][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.10.31-10.07.45:702][159]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_Enemy
+[2025.10.31-10.07.45:705][159]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Enemy618AEF104E7C2CAD8403AC82D0C5A9BA.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_Enemy.uasset'
+[2025.10.31-10.07.45:733][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.740 ms
+[2025.10.31-10.07.45:861][159]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-10.07.45:861][159]LogContentValidation: Enabled validators:
+[2025.10.31-10.07.45:863][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-10.07.45:863][159]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-10.07.45:863][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-10.07.45:863][159]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-10.07.45:863][159]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-10.07.45:863][159]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-10.07.45:866][159]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
