@@ -1867,3 +1867,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.03-10.37.32:029][687]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Animations/BPAnim_Enemy_Auto3
 [2025.11.03-10.37.32:029][687]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BPAnim_Enemy_Auto386E8749640B19088F369969AE45E2129.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/Enemy/Animations/BPAnim_Enemy_Auto3.uasset'
 [2025.11.03-10.37.32:033][687]LogFileHelpers: Auto-saving content packages took 0.101
+[2025.11.03-10.38.34:303][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-10.38.34:500][876]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/Animations/BPAnim_Enemy] ([2] browsable assets)...
+[2025.11.03-10.38.34:500][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Animations/BPAnim_Enemy]
+[2025.11.03-10.38.34:508][876]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BPAnim_Enemy
+[2025.11.03-10.38.34:509][876]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BPAnim_Enemy954270BE484758D1B5657F81E8A36A21.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/Animations/BPAnim_Enemy.uasset'
+[2025.11.03-10.38.34:518][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.989 ms (total: 635.539 ms)
+[2025.11.03-10.38.34:582][876]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-10.38.34:582][876]LogContentValidation: Enabled validators:
+[2025.11.03-10.38.34:582][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-10.38.34:582][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-10.38.34:582][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-10.38.34:582][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-10.38.34:582][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-10.38.34:582][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-10.38.34:582][876]AssetCheck: /Game/Enemy/Animations/BPAnim_Enemy Validating asset
