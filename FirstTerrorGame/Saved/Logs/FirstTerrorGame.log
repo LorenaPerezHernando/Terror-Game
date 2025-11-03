@@ -1379,3 +1379,491 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.03-09.09.57:984][ 15]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.11.03-09.09.58:619][ 17]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-TJaSXoroHEWNxYuqMC1NMQ-ibteCC9mBUqFwfRgD50lNA]
 [2025.11.03-09.11.02:261][582]LogDerivedDataCache: C:/Users/34644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.03-09.15.54:895][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 380.996704
+[2025.11.03-09.15.55:893][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-09.15.55:893][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 381.658173, Update Interval: 304.806671
+[2025.11.03-09.21.03:329][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 689.432129
+[2025.11.03-09.21.04:331][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-09.21.04:332][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 690.099060, Update Interval: 354.568939
+[2025.11.03-09.25.59:300][621]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-09.25.59:300][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-09.25.59:574][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.11.03-09.25.59:891][622]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.11.03-09.26.00:152][624]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.11.03-09.27.04:113][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1050.217407
+[2025.11.03-09.27.05:106][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-09.27.05:106][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1050.880005, Update Interval: 356.868805
+[2025.11.03-09.33.12:338][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1418.438965
+[2025.11.03-09.33.13:336][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-09.33.13:336][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1419.103760, Update Interval: 335.349579
+[2025.11.03-09.39.09:513][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1775.614502
+[2025.11.03-09.39.10:510][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-09.39.10:510][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1776.281616, Update Interval: 311.363861
+[2025.11.03-09.45.00:312][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2126.413086
+[2025.11.03-09.45.01:313][351]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-09.45.01:313][351]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2127.079102, Update Interval: 329.030426
+[2025.11.03-09.51.28:596][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2514.697266
+[2025.11.03-09.51.29:595][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-09.51.29:595][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2515.362793, Update Interval: 308.128296
+[2025.11.03-09.57.21:763][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2867.862061
+[2025.11.03-09.57.22:762][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-09.57.22:762][853]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2868.531982, Update Interval: 346.314270
+[2025.11.03-09.59.26:156][926]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.11.03-09.59.26:218][927]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.11.03-09.59.26:250][928]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.11.03-09.59.46:066][376]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Enemy/T-Pose_PhysicsAsset.T-Pose_PhysicsAsset
+[2025.11.03-09.59.46:111][376]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.11.03-09.59.46:133][376]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-09.59.46:469][376]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.11.03-09.59.50:468][418]LogSlate: Window 'T-Pose_PhysicsAsset' being destroyed
+[2025.11.03-09.59.55:300][543]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-09.59.55:300][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-09.59.55:415][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.11.03-10.00.06:284][777]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Enemy/T-Pose_Skeleton.T-Pose_Skeleton
+[2025.11.03-10.00.06:294][777]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.11.03-10.00.06:383][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-10.00.06:867][777]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.03-10.00.10:305][814]LogSlate: Window 'T-Pose_Skeleton' being destroyed
+[2025.11.03-10.00.52:511][289]LogShaderCompilers: Display: ================================================
+[2025.11.03-10.00.52:511][289]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.03-10.00.52:511][289]LogShaderCompilers: Display: Total job queries 308, among them cache hits 39 (12.66%), DDC hits 192 (62.34%), Duplicates 71 (23.05%)
+[2025.11.03-10.00.52:511][289]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 159 distinct outputs (80.30%)
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: RAM used: 142.19 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Job execution time: average 2.09 s, max 2.62 s
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Job life time (pending + execution): average 2.19 s, max 2.71
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Shader code size: average 8.435 KiB, min 2.691 KiB, max 12.379 KiB
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.72 s
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Average processing rate: 2.21 jobs/sec
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Total thread time: 5.595 s
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Total thread preprocess time: 6.974 s
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Percentage time preprocessing: 124.65%
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Effective parallelization: 2.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.15 sec, max 1.16 sec, min 1.14 sec)
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.89 sec, max 0.90 sec, min 0.89 sec)
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2025.11.03-10.00.52:512][289]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.12% of total time (compiled    2 times, average 1.15 sec, max 1.16 sec, min 1.14 sec)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.94% of total time (compiled    2 times, average 0.89 sec, max 0.90 sec, min 0.89 sec)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display:                                                  FHitProxyPS - 14.60% of total time (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.34% of total time (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: === Material stats ===
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: Materials Translated:    146
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: Material Total Translate Time: 0.29 s
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: Material Translation Only: 0.10 s (33%)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: Material Cache Hits: 23 (16%)
+[2025.11.03-10.00.52:513][289]LogShaderCompilers: Display: ================================================
+[2025.11.03-10.01.17:153][925]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.01.17:153][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.01.17:212][925]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.01.17:212][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.01.17:256][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.03-10.03.47:883][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3253.984619
+[2025.11.03-10.03.48:875][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-10.03.48:875][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3254.650635, Update Interval: 313.744324
+[2025.11.03-10.09.55:038][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3621.143555
+[2025.11.03-10.09.55:237][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-10.09.55:237][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3621.308594, Update Interval: 358.414246
+[2025.11.03-10.10.05:628][829]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-10.10.05:639][829]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Enemy/Animations/Mutant_Walking.Mutant_Walking
+[2025.11.03-10.10.05:641][829]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.03-10.10.05:726][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-10.10.06:049][829]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.03-10.10.06:496][829]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.03-10.10.06:546][829]LogSlate: Took 0.010393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.03-10.10.06:567][829]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.11.03-10.10.06:574][829]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.03-10.10.14:006][873]LogSlate: Window 'Mutant_Walking' being destroyed
+[2025.11.03-10.10.14:018][873]LogSlate: Window 'Mutant_Walking' being destroyed
+[2025.11.03-10.10.14:051][873]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.10.14:051][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.10.14:064][873]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.10.14:064][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.10.14:126][873]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.10.14:126][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.10.14:183][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.03-10.10.18:106][963]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-10.10.18:117][963]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Enemy/Animations/Mutant_Breathing_Idle.Mutant_Breathing_Idle
+[2025.11.03-10.10.18:118][963]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.11.03-10.10.18:203][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-10.10.18:538][963]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.11.03-10.10.19:017][963]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.11.03-10.10.20:597][981]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-10.10.20:612][981]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Enemy/Animations/Mutant_Run.Mutant_Run
+[2025.11.03-10.10.20:700][981]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.11.03-10.10.20:797][981]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.10.20:798][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.10.20:930][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.03-10.10.22:864][  5]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-10.10.22:881][  5]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Enemy/Animations/Mutant_Swiping.Mutant_Swiping
+[2025.11.03-10.10.22:964][  5]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.11.03-10.10.23:082][  5]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.10.23:082][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.10.23:193][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.11.03-10.10.30:813][ 86]LogSlate: Window 'Mutant_Swiping' being destroyed
+[2025.11.03-10.10.30:824][ 86]LogSlate: Window 'Mutant_Swiping' being destroyed
+[2025.11.03-10.10.30:859][ 86]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.10.30:859][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.10.30:868][ 86]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.10.30:869][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.10.30:931][ 86]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.10.30:932][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.10.30:964][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.03-10.11.00:745][890]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.03-10.11.00:872][890]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.11.03-10.11.02:262][890]LogDerivedDataCache: C:/Users/34644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.03-10.11.09:672][890]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.11.03-10.11.09:722][890]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.11.03-10.11.09:739][890]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.11.03-10.11.09:780][892]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.11.03-10.11.29:688][559]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BPAnim_Enemy
+[2025.11.03-10.11.29:710][559]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.11.03-10.11.29:713][559]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.11.03-10.11.33:586][627]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy
+[2025.11.03-10.11.33:595][627]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.11.03-10.11.33:609][627]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.11.03-10.11.33:622][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-10.11.34:099][627]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.11.03-10.11.36:873][674]LogSlate: Window 'BPAnim_Enemy' being destroyed
+[2025.11.03-10.12.25:979][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.03-10.12.45:190][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.11.03-10.13.19:589][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.03-10.13.19:593][361]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.021
+[2025.11.03-10.13.19:595][361]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Animations/BPAnim_Enemy] ([2] browsable assets)...
+[2025.11.03-10.13.19:645][361]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy]
+[2025.11.03-10.13.19:645][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Animations/BPAnim_Enemy]
+[2025.11.03-10.13.19:663][361]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Animations/BPAnim_Enemy_Auto1
+[2025.11.03-10.13.19:664][361]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BPAnim_Enemy_Auto1AE3F1AF940F829894ED39A8EADAD8EF7.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/Enemy/Animations/BPAnim_Enemy_Auto1.uasset'
+[2025.11.03-10.13.19:669][361]LogFileHelpers: Auto-saving content packages took 0.074
+[2025.11.03-10.13.35:476][ 36]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.11.03-10.13.47:529][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.11.03-10.13.49:871][368]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.03-10.13.50:050][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-10.13.50:069][368]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.11.03-10.13.50:069][368]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.11.03-10.13.50:070][368]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.03-10.13.50:165][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094720s)
+[2025.11.03-10.13.50:165][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.094852s)
+[2025.11.03-10.13.50:185][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.03-10.13.50:190][368]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.03-10.13.50:194][368]LogPlayLevel: PIE: World Init took: (0.003737s)
+[2025.11.03-10.13.50:195][368]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.11.03-10.13.50:195][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-10.13.50:195][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-10.13.50:195][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-10.13.50:195][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-10.13.50:195][368]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.03-10.13.50:195][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-10.13.50:195][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.03-10.13.50:195][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-10.13.50:195][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-10.13.50:195][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-10.13.50:195][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-10.13.50:199][368]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-10.13.50:232][368]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.03-10.13.50:233][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-10.13.50:233][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-10.13.50:233][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-10.13.50:234][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.11.03-10.13.50:234][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.11.03-10.13.50:237][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.11.03-10.13.50:237][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.11.03-10.13.50:237][368]LogInit: FAudioDevice initialized with ID 2.
+[2025.11.03-10.13.50:237][368]LogAudio: Display: Audio Device (ID: 2) registered with world 'HorrorGameMap'.
+[2025.11.03-10.13.50:237][368]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.11.03-10.13.50:244][368]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-10.13.50:256][368]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.03-10.13.50:293][368]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 60) at 2025.11.03-11.13.50
+[2025.11.03-10.13.50:301][368]LogWorld: Bringing up level for play took: 0.044402
+[2025.11.03-10.13.50:305][368]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.11.03-10.13.50:339][368]PIE: Server logged in
+[2025.11.03-10.13.50:341][368]PIE: Play in editor total start time 0.297 seconds.
+[2025.11.03-10.13.55:575][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-10.13.55:575][488]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.03-10.13.55:578][488]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-10.13.55:592][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.13.55:650][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-10.13.55:656][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-10.13.55:685][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-10.13.55:689][488]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.11.03-10.13.55:691][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.11.03-10.13.55:694][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.11.03-10.13.55:702][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-10.13.55:721][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.11.03-10.13.55:761][489]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.11.03-10.14.38:086][670]LogSlate: Window 'Pick Skeleton' being destroyed
+[2025.11.03-10.14.38:140][670]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2025.11.03-10.14.38:153][670]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2025.11.03-10.14.38:176][671]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace).
+[2025.11.03-10.14.46:062][872]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_Enemy
+[2025.11.03-10.14.46:076][872]LogContentBrowser: End creating deferred item NewBlendSpace
+[2025.11.03-10.14.46:114][872]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.11.03-10.14.49:178][928]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Enemy/Animations/BS_Enemy.BS_Enemy
+[2025.11.03-10.14.49:179][928]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.11.03-10.14.49:270][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-10.14.49:629][928]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.11.03-10.16.24:635][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4010.739014
+[2025.11.03-10.16.24:827][847]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-10.16.24:828][847]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4010.863525, Update Interval: 336.594757
+[2025.11.03-10.22.50:909][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4397.005859
+[2025.11.03-10.22.51:193][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-10.22.51:193][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4397.217285, Update Interval: 345.647766
+[2025.11.03-10.24.03:669][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-10.24.03:880][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/Animations/BS_Enemy] ([1] browsable assets)...
+[2025.11.03-10.24.03:928][649]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Enemy/Animations/BS_Enemy.BS_Enemy]
+[2025.11.03-10.24.03:928][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Animations/BS_Enemy]
+[2025.11.03-10.24.03:932][649]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_Enemy
+[2025.11.03-10.24.03:932][649]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BS_EnemyC56757944AE92C828A6484A389F6FEFF.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/Animations/BS_Enemy.uasset'
+[2025.11.03-10.24.03:996][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 328.276 ms
+[2025.11.03-10.24.04:091][649]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-10.24.04:091][649]LogContentValidation: Enabled validators:
+[2025.11.03-10.24.04:092][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-10.24.04:093][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-10.24.04:093][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-10.24.04:093][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-10.24.04:093][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-10.24.04:093][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-10.24.04:093][649]AssetCheck: /Game/Enemy/Animations/BS_Enemy Validating asset
+[2025.11.03-10.25.08:919][607]LogSlate: Took 0.009726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.11.03-10.25.26:690][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.11.03-10.25.40:832][250]LogEditorTransaction: Undo Move Node
+[2025.11.03-10.25.41:302][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-10.25.41:302][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-10.26.14:173][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.11.03-10.26.14:175][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.024
+[2025.11.03-10.26.14:175][486]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_Enemy] ([2] browsable assets)...
+[2025.11.03-10.26.14:175][486]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.11.03-10.26.14:388][486]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy_C]
+[2025.11.03-10.26.14:483][486]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_Enemy.BP_Enemy]
+[2025.11.03-10.26.14:483][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_Enemy]
+[2025.11.03-10.26.14:494][486]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorGameContent/BPS/BP_Enemy_Auto2
+[2025.11.03-10.26.14:494][486]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Enemy_Auto23621C3574CAD1F2BC8C7D991B6452B8E.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/HorrorGameContent/BPS/BP_Enemy_Auto2.uasset'
+[2025.11.03-10.26.14:497][486]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Animations/BPAnim_Enemy] ([2] browsable assets)...
+[2025.11.03-10.26.14:557][486]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy]
+[2025.11.03-10.26.14:557][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Animations/BPAnim_Enemy]
+[2025.11.03-10.26.14:567][486]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Animations/BPAnim_Enemy_Auto2
+[2025.11.03-10.26.14:567][486]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BPAnim_Enemy_Auto25F3233A940CA16850E664F80C36A19E1.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/Enemy/Animations/BPAnim_Enemy_Auto2.uasset'
+[2025.11.03-10.26.14:568][486]LogFileHelpers: Auto-saving content packages took 0.393
+[2025.11.03-10.29.09:467][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4775.555176
+[2025.11.03-10.29.10:467][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-10.29.10:467][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4776.224609, Update Interval: 355.733521
+[2025.11.03-10.32.06:422][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.03-10.32.06:451][899]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_32
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:451][899]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_32
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.06:452][899]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:452][899]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.06:492][900]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:492][900]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.06:514][901]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:514][901]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.06:526][902]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:526][902]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.06:538][903]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:538][903]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.06:550][904]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:550][904]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.06:562][905]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:564][905]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.06:576][906]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.06:576][906]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.07:933][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-10.32.07:992][  7]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Animations/BPAnim_Enemy] ([2] browsable assets)...
+[2025.11.03-10.32.07:992][  7]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_33
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.07:992][  7]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_33
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.08:000][  7]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy]
+[2025.11.03-10.32.08:000][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Animations/BPAnim_Enemy]
+[2025.11.03-10.32.08:007][  7]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BPAnim_Enemy
+[2025.11.03-10.32.08:007][  7]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BPAnim_Enemy8F53D2CD47AF49FA2904D2AAEA2BEFFA.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/Enemy/Animations/BPAnim_Enemy.uasset'
+[2025.11.03-10.32.08:025][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.273 ms (total: 419.549 ms)
+[2025.11.03-10.32.08:084][  7]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-10.32.08:084][  7]LogContentValidation: Enabled validators:
+[2025.11.03-10.32.08:084][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-10.32.08:084][  7]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-10.32.08:084][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-10.32.08:084][  7]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-10.32.08:084][  7]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-10.32.08:084][  7]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-10.32.08:084][  7]AssetCheck: /Game/Enemy/Animations/BPAnim_Enemy Validating asset
+[2025.11.03-10.32.39:645][368]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_34
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.39:645][368]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_34
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.39:645][368]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_34
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.39:645][368]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_34
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.45:607][801]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_35
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.45:607][801]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_35
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.45:607][801]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_35
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.45:607][801]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_35
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.47:936][960]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_36
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.47:936][960]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_36
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.47:936][960]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_36
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.47:936][960]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_36
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.50:958][192]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_37
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.50:958][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_37
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.32.50:958][192]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_37
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.32.50:958][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_37
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.33.15:397][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_38
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.33.15:397][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_38
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.33.15:397][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_38
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.33.15:397][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_38
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.33.19:216][411]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_39
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.33.19:217][411]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_39
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.33.19:217][411]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_39
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.33.19:217][411]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_39
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.35.23:604][603]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_40
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.35.23:604][603]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_40
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.35.23:604][603]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_40
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.35.23:604][603]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_40
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.35.48:663][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5174.734863
+[2025.11.03-10.35.48:812][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-10.35.48:812][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5174.871582, Update Interval: 326.574921
+[2025.11.03-10.35.56:948][454]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_41
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.35.56:948][454]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_41
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.35.56:948][454]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_41
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.35.56:948][454]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_41
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.36.02:201][835]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_42
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.36.02:201][835]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_42
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.36.02:201][835]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_42
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.36.02:201][835]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_42
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.36.29:585][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.03-10.36.29:606][335]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_43
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.36.29:607][335]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_43
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.37.31:926][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.11.03-10.37.31:931][687]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.022
+[2025.11.03-10.37.31:932][687]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Animations/BPAnim_Enemy] ([2] browsable assets)...
+[2025.11.03-10.37.31:932][687]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_44
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.03-10.37.31:932][687]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BPAnim_Enemy_C_44
+	Function /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.03-10.37.32:021][687]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy]
+[2025.11.03-10.37.32:021][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Animations/BPAnim_Enemy]
+[2025.11.03-10.37.32:029][687]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Animations/BPAnim_Enemy_Auto3
+[2025.11.03-10.37.32:029][687]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BPAnim_Enemy_Auto386E8749640B19088F369969AE45E2129.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/Enemy/Animations/BPAnim_Enemy_Auto3.uasset'
+[2025.11.03-10.37.32:033][687]LogFileHelpers: Auto-saving content packages took 0.101
