@@ -2144,3 +2144,15 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2025.11.05-12.04.24:594][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2025.11.05-12.04.24:611][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2025.11.05-12.04.25:029][982]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.11.05-12.05.24:681][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.05-12.05.24:684][450]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.051
+[2025.11.05-12.05.24:684][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-12.05.24:684][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-12.05.24:701][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2025.11.05-12.05.24:703][450]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacter_Auto12678DF284FE44E8494115EA54F93B9D0.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2025.11.05-12.05.24:706][450]LogFileHelpers: Auto-saving content packages took 0.021
+[2025.11.05-12.09.19:727][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1669.657227
+[2025.11.05-12.09.20:733][287]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-12.09.20:733][287]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1670.323975, Update Interval: 323.240448
+[2025.11.05-12.09.41:084][137]LogBlueprint: Error: [AssetLog] C:\Users\34644\Desktop\MIS JUEGOS\Unreal\First-Terror-Game\FirstTerrorGame\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2025.11.05-12.09.41:135][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
