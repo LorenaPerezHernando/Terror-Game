@@ -1587,3 +1587,371 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2025.11.05-11.44.51:493][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.05-11.44.51:493][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.05-11.44.51:493][418]AssetCheck: /Game/HorrorGameContent/BPS/BP_Enemy Validating asset
+[2025.11.05-11.47.01:960][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 331.890411
+[2025.11.05-11.47.03:009][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-11.47.03:011][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.557800, Update Interval: 333.939636
+[2025.11.05-11.47.59:167][851]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.05-11.47.59:335][853]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.05-11.48.15:694][426]LogContentBrowser: Attempting asset rename: UW_DamageBlood -> UW_Damage
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.UW_Damage_C' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.UW_Damage:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.UW_Damage:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.UW_Damage:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.SKEL_UW_Damage_C:PreConstruct' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.SKEL_UW_Damage_C:Construct' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.SKEL_UW_Damage_C:Tick' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.SKEL_UW_Damage_C:BloodAnim' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:919][426]LogMetaData: Removing '/Game/HorrorGameContent/BPS/Widgets/UW_Damage.SKEL_UW_Damage_C' ref from Metadata '/Game/HorrorGameContent/BPS/Widgets/UW_DamageBlood.PackageMetaData'
+[2025.11.05-11.48.15:937][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-11.48.15:939][426]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-11.48.15:939][426]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.05-11.48.16:056][426]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.11.05-11.48.16:058][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-11.48.16:074][426]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.11.05-11.48.16:075][426]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacter1A8EA5CC41D7734CDEA0969CC5FE173D.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.11.05-11.48.16:077][426]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorGameContent/BPS/Widgets/UW_Damage] ([2] browsable assets)...
+[2025.11.05-11.48.16:077][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/Widgets/UW_Damage]
+[2025.11.05-11.48.16:082][426]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/Widgets/UW_Damage
+[2025.11.05-11.48.16:082][426]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_Damage70A2036C4FA8575F48A4CD96421A0EA4.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/Widgets/UW_Damage.uasset'
+[2025.11.05-11.48.16:092][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.239 ms (total: 1.14 sec)
+[2025.11.05-11.48.16:122][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.05-11.48.16:140][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.05-11.48.16:155][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.11.05-11.48.16:265][426]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.05-11.48.16:265][426]LogContentValidation: Enabled validators:
+[2025.11.05-11.48.16:265][426]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-11.48.16:265][426]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-11.48.16:265][426]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-11.48.16:265][426]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-11.48.16:265][426]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-11.48.16:265][426]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-11.48.16:265][426]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.11.05-11.48.16:267][426]AssetCheck: /Game/HorrorGameContent/BPS/Widgets/UW_Damage Validating asset
+[2025.11.05-11.48.29:639][111]LogSlate: Took 0.009823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.11.05-11.49.15:651][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.11.05-11.49.16:993][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-11.49.17:177][916]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-11.49.17:269][916]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.11.05-11.49.17:269][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-11.49.17:284][916]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.11.05-11.49.17:285][916]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacter8C5EA2B3455E7876B34A96BACE76ACA7.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.11.05-11.49.17:328][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 335.874 ms (total: 1.47 sec)
+[2025.11.05-11.49.17:432][916]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-11.49.17:432][916]LogContentValidation: Enabled validators:
+[2025.11.05-11.49.17:432][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-11.49.17:433][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-11.49.17:433][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-11.49.17:433][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-11.49.17:433][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-11.49.17:433][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-11.49.17:433][916]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.11.05-11.49.18:709][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-11.49.18:721][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-11.49.18:721][943]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.05-11.49.18:794][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073132s)
+[2025.11.05-11.49.18:794][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.073175s)
+[2025.11.05-11.49.18:817][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.11.05-11.49.18:819][943]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.05-11.49.18:822][943]LogPlayLevel: PIE: World Init took: (0.002037s)
+[2025.11.05-11.49.18:823][943]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.11.05-11.49.18:823][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-11.49.18:823][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-11.49.18:823][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-11.49.18:823][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-11.49.18:823][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.05-11.49.18:823][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-11.49.18:823][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.05-11.49.18:823][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-11.49.18:823][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-11.49.18:823][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-11.49.18:823][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-11.49.18:826][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-11.49.18:856][943]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.05-11.49.18:856][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-11.49.18:856][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-11.49.18:856][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-11.49.18:856][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.11.05-11.49.18:856][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.11.05-11.49.18:860][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.11.05-11.49.18:860][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.11.05-11.49.18:860][943]LogInit: FAudioDevice initialized with ID 4.
+[2025.11.05-11.49.18:860][943]LogAudio: Display: Audio Device (ID: 4) registered with world 'HorrorGameMap'.
+[2025.11.05-11.49.18:860][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.05-11.49.18:863][943]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.05-11.49.18:892][943]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 0) at 2025.11.05-12.49.18
+[2025.11.05-11.49.18:893][943]LogWorld: Bringing up level for play took: 0.030479
+[2025.11.05-11.49.18:897][943]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.11.05-11.49.18:902][943]PIE: Server logged in
+[2025.11.05-11.49.18:903][943]PIE: Play in editor total start time 0.182 seconds.
+[2025.11.05-11.49.24:102][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-11.49.24:102][ 91]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.05-11.49.24:105][ 91]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-11.49.24:114][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-11.49.24:150][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-11.49.24:155][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-11.49.24:178][ 91]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.05-11.49.24:180][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.05-11.49.24:180][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.11.05-11.49.24:181][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.11.05-11.49.24:188][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-11.49.24:204][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.11.05-11.49.24:278][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.11.05-11.49.26:266][148]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-11.49.26:281][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-11.49.26:281][148]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.05-11.49.26:355][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077105s)
+[2025.11.05-11.49.26:355][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.077148s)
+[2025.11.05-11.49.26:377][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.11.05-11.49.26:380][148]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.05-11.49.26:382][148]LogPlayLevel: PIE: World Init took: (0.002282s)
+[2025.11.05-11.49.26:383][148]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.11.05-11.49.26:383][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-11.49.26:383][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-11.49.26:383][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-11.49.26:383][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-11.49.26:383][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.05-11.49.26:383][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-11.49.26:383][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.05-11.49.26:383][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-11.49.26:383][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-11.49.26:383][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-11.49.26:383][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-11.49.26:387][148]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-11.49.26:415][148]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.05-11.49.26:415][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-11.49.26:415][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-11.49.26:415][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-11.49.26:415][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.11.05-11.49.26:415][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.11.05-11.49.26:419][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.11.05-11.49.26:419][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.11.05-11.49.26:419][148]LogInit: FAudioDevice initialized with ID 5.
+[2025.11.05-11.49.26:419][148]LogAudio: Display: Audio Device (ID: 5) registered with world 'HorrorGameMap'.
+[2025.11.05-11.49.26:419][148]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.05-11.49.26:422][148]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.05-11.49.26:452][148]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 0) at 2025.11.05-12.49.26
+[2025.11.05-11.49.26:453][148]LogWorld: Bringing up level for play took: 0.030671
+[2025.11.05-11.49.26:455][148]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.11.05-11.49.26:461][148]PIE: Server logged in
+[2025.11.05-11.49.26:463][148]PIE: Play in editor total start time 0.184 seconds.
+[2025.11.05-11.49.37:767][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-11.49.37:767][455]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.05-11.49.37:767][455]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-11.49.37:771][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-11.49.37:810][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-11.49.37:815][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-11.49.37:838][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-11.49.37:842][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.05-11.49.37:842][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.11.05-11.49.37:844][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.11.05-11.49.37:858][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.05-11.49.37:930][456]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.11.05-11.49.40:816][529]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-11.49.40:828][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-11.49.40:828][529]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.05-11.49.40:903][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075400s)
+[2025.11.05-11.49.40:903][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.075440s)
+[2025.11.05-11.49.40:924][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.11.05-11.49.40:926][529]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.05-11.49.40:928][529]LogPlayLevel: PIE: World Init took: (0.001774s)
+[2025.11.05-11.49.40:928][529]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.11.05-11.49.40:928][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-11.49.40:928][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-11.49.40:928][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-11.49.40:928][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-11.49.40:928][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.05-11.49.40:928][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-11.49.40:928][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.05-11.49.40:928][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-11.49.40:928][529]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-11.49.40:928][529]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-11.49.40:928][529]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-11.49.40:932][529]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-11.49.40:961][529]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.05-11.49.40:961][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-11.49.40:961][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-11.49.40:961][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-11.49.40:961][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.11.05-11.49.40:961][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.11.05-11.49.40:965][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.11.05-11.49.40:965][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.11.05-11.49.40:965][529]LogInit: FAudioDevice initialized with ID 6.
+[2025.11.05-11.49.40:965][529]LogAudio: Display: Audio Device (ID: 6) registered with world 'HorrorGameMap'.
+[2025.11.05-11.49.40:965][529]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.05-11.49.40:967][529]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.05-11.49.40:997][529]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 0) at 2025.11.05-12.49.40
+[2025.11.05-11.49.40:998][529]LogWorld: Bringing up level for play took: 0.030444
+[2025.11.05-11.49.41:001][529]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.11.05-11.49.41:007][529]PIE: Server logged in
+[2025.11.05-11.49.41:008][529]PIE: Play in editor total start time 0.181 seconds.
+[2025.11.05-11.49.47:855][706]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.11.05-11.50.42:284][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-11.50.42:284][279]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.05-11.50.42:285][279]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-11.50.42:295][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-11.50.42:316][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-11.50.42:324][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-11.50.42:346][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-11.50.42:350][279]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.05-11.50.42:350][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.11.05-11.50.42:352][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.11.05-11.50.42:367][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.05-11.50.42:431][280]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.11.05-11.52.39:480][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 669.412231
+[2025.11.05-11.52.39:647][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-11.52.39:647][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.545654, Update Interval: 311.666016
+[2025.11.05-11.54.52:797][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2025.11.05-11.55.05:809][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.11.05-11.55.06:505][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-11.55.06:644][591]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-11.55.06:752][591]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.11.05-11.55.06:752][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-11.55.06:769][591]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.11.05-11.55.06:771][591]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacterCDA84D9940F6AAB496909B954F429CEB.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.11.05-11.55.06:814][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.926 ms (total: 1.78 sec)
+[2025.11.05-11.55.06:924][591]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-11.55.06:924][591]LogContentValidation: Enabled validators:
+[2025.11.05-11.55.06:924][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-11.55.06:924][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-11.55.06:924][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-11.55.06:924][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-11.55.06:924][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-11.55.06:924][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-11.55.06:924][591]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.11.05-11.55.49:425][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.11.05-11.55.50:101][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-11.55.50:274][482]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-11.55.50:358][482]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.11.05-11.55.50:358][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-11.55.50:375][482]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.11.05-11.55.50:387][482]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacterAEC47DB24600D5A0AFCB7B88154EED3C.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.11.05-11.55.50:438][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 337.215 ms (total: 2.12 sec)
+[2025.11.05-11.55.50:537][482]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-11.55.50:538][482]LogContentValidation: Enabled validators:
+[2025.11.05-11.55.50:538][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-11.55.50:538][482]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-11.55.50:538][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-11.55.50:538][482]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-11.55.50:538][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-11.55.50:538][482]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-11.55.50:538][482]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.11.05-11.56.05:358][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-11.56.05:526][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-11.56.05:526][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-11.56.05:543][924]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.11.05-11.56.05:546][924]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacterA8721FEA4C26AE118F5B71B710DD0A07.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.11.05-11.56.05:630][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 271.871 ms (total: 2.39 sec)
+[2025.11.05-11.56.05:729][924]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-11.56.05:729][924]LogContentValidation: Enabled validators:
+[2025.11.05-11.56.05:729][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-11.56.05:729][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-11.56.05:729][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-11.56.05:729][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-11.56.05:729][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-11.56.05:729][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-11.56.05:729][924]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.11.05-11.57.57:797][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 987.730957
+[2025.11.05-11.57.58:036][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-11.57.58:036][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 987.904419, Update Interval: 301.311066
+[2025.11.05-11.58.11:779][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2025.11.05-11.58.12:741][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-11.58.12:929][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-11.58.13:012][576]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.11.05-11.58.13:012][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-11.58.13:031][576]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.11.05-11.58.13:033][576]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacter795176AE46374000B5CCC39775CE1D11.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.11.05-11.58.13:075][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 333.039 ms (total: 2.72 sec)
+[2025.11.05-11.58.13:187][576]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-11.58.13:187][576]LogContentValidation: Enabled validators:
+[2025.11.05-11.58.13:187][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-11.58.13:187][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-11.58.13:187][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-11.58.13:187][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-11.58.13:187][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-11.58.13:187][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-11.58.13:187][576]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.11.05-11.59.27:821][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.11.05-11.59.28:687][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-11.59.28:832][152]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-11.59.28:915][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.11.05-11.59.28:915][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-11.59.28:934][152]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.11.05-11.59.28:937][152]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacter6FCEFD5545BE501F98732AAB7CDDA30B.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.11.05-11.59.28:984][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 293.777 ms (total: 3.02 sec)
+[2025.11.05-11.59.29:085][152]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-11.59.29:085][152]LogContentValidation: Enabled validators:
+[2025.11.05-11.59.29:085][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-11.59.29:085][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-11.59.29:085][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-11.59.29:085][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-11.59.29:085][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-11.59.29:085][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-11.59.29:085][152]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.11.05-11.59.47:566][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.11.05-11.59.48:239][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-11.59.48:421][690]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.11.05-11.59.48:500][690]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.11.05-11.59.48:500][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.11.05-11.59.48:518][690]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.11.05-11.59.48:520][690]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_FirstPersonCharacter1B48312444C9DD7E69547998252C262A.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.11.05-11.59.48:565][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 325.863 ms (total: 3.34 sec)
+[2025.11.05-11.59.48:673][690]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-11.59.48:673][690]LogContentValidation: Enabled validators:
+[2025.11.05-11.59.48:673][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-11.59.48:673][690]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-11.59.48:673][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-11.59.48:673][690]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-11.59.48:673][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-11.59.48:673][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-11.59.48:673][690]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.11.05-11.59.51:218][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-11.59.51:240][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-11.59.51:240][719]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.05-11.59.51:316][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075750s)
+[2025.11.05-11.59.51:316][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.075794s)
+[2025.11.05-11.59.52:482][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.05-11.59.52:487][719]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.05-11.59.52:490][719]LogPlayLevel: PIE: World Init took: (0.002546s)
+[2025.11.05-11.59.52:491][719]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.05-11.59.52:491][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-11.59.52:491][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-11.59.52:491][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-11.59.52:491][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-11.59.52:491][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.05-11.59.52:491][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-11.59.52:491][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.05-11.59.52:491][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-11.59.52:491][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-11.59.52:491][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-11.59.52:491][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-11.59.52:495][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-11.59.52:534][719]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.05-11.59.52:535][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-11.59.52:535][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-11.59.52:535][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-11.59.52:536][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.05-11.59.52:536][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.05-11.59.52:538][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.05-11.59.52:538][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.05-11.59.52:538][719]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.05-11.59.52:538][719]LogAudio: Display: Audio Device (ID: 7) registered with world 'HorrorGameMap'.
+[2025.11.05-11.59.52:538][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.05-11.59.52:542][719]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.05-11.59.52:580][719]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 60) at 2025.11.05-12.59.52
+[2025.11.05-11.59.52:581][719]LogWorld: Bringing up level for play took: 0.038917
+[2025.11.05-11.59.52:585][719]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.11.05-11.59.52:593][719]PIE: Server logged in
+[2025.11.05-11.59.52:595][719]PIE: Play in editor total start time 1.355 seconds.
+[2025.11.05-12.00.02:865][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-12.00.02:865][761]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.05-12.00.02:867][761]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-12.00.02:875][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-12.00.03:289][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-12.00.03:296][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-12.00.03:323][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.05-12.00.03:323][761]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.05-12.00.03:323][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.11.05-12.00.03:326][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.11.05-12.00.03:330][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-12.00.03:342][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.05-12.00.03:763][762]LogPlayLevel: Display: Destroying online subsystem :Context_21
