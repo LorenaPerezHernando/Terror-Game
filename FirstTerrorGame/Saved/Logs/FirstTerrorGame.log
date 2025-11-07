@@ -2695,3 +2695,113 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-12.14.11:239][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave HorrorBackgroundMusic...
 [2025.11.07-12.14.11:648][984]LogAudioDerivedData: Display: HorrorBackgroundMusic compressed to 14.07% (from 19,316KB to 2,717KB) with BINKA at Quality 80 with Quality Modifier 1.00
 [2025.11.07-12.14.11:651][984]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=12, Chunk0=28 bytes, Chunk1=261933 bytes, ChunkN=261353)
+[2025.11.07-12.14.53:462][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2025.11.07-12.14.53:470][285]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.056
+[2025.11.07-12.14.53:470][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MusicAndSounds/JumpScareSound] ([1] browsable assets)...
+[2025.11.07-12.14.53:476][285]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MusicAndSounds/JumpScareSound.JumpScareSound]
+[2025.11.07-12.14.53:476][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/JumpScareSound]
+[2025.11.07-12.14.53:483][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MusicAndSounds/JumpScareSound_Auto4
+[2025.11.07-12.14.53:483][285]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/JumpScareSound_Auto443C8B0994289CADEF83CDFA0CF61D665.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/MusicAndSounds/JumpScareSound_Auto4.uasset'
+[2025.11.07-12.14.53:485][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MusicAndSounds/BurningCandleSound] ([1] browsable assets)...
+[2025.11.07-12.14.53:488][285]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MusicAndSounds/BurningCandleSound.BurningCandleSound]
+[2025.11.07-12.14.53:488][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/BurningCandleSound]
+[2025.11.07-12.14.53:494][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MusicAndSounds/BurningCandleSound_Auto4
+[2025.11.07-12.14.53:494][285]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BurningCandleSound_Auto419858BC34265EA0E54699B8A2A10D0E2.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/MusicAndSounds/BurningCandleSound_Auto4.uasset'
+[2025.11.07-12.14.53:495][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MusicAndSounds/EnemyVoices] ([1] browsable assets)...
+[2025.11.07-12.14.53:504][285]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MusicAndSounds/EnemyVoices.EnemyVoices]
+[2025.11.07-12.14.53:504][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/EnemyVoices]
+[2025.11.07-12.14.53:514][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MusicAndSounds/EnemyVoices_Auto4
+[2025.11.07-12.14.53:514][285]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/EnemyVoices_Auto45952A0084177313F1B0709BD23042C08.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/MusicAndSounds/EnemyVoices_Auto4.uasset'
+[2025.11.07-12.14.53:517][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MusicAndSounds/FootStepsSound] ([1] browsable assets)...
+[2025.11.07-12.14.53:519][285]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MusicAndSounds/FootStepsSound.FootStepsSound]
+[2025.11.07-12.14.53:519][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/FootStepsSound]
+[2025.11.07-12.14.53:523][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MusicAndSounds/FootStepsSound_Auto4
+[2025.11.07-12.14.53:523][285]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/FootStepsSound_Auto443AB22D645581E8F794B1BBD79B4224B.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/MusicAndSounds/FootStepsSound_Auto4.uasset'
+[2025.11.07-12.14.53:525][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MusicAndSounds/HitSound] ([1] browsable assets)...
+[2025.11.07-12.14.53:527][285]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MusicAndSounds/HitSound.HitSound]
+[2025.11.07-12.14.53:527][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/HitSound]
+[2025.11.07-12.14.53:530][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MusicAndSounds/HitSound_Auto4
+[2025.11.07-12.14.53:530][285]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HitSound_Auto4D1E6B385421EE0E330401FA6EC5BBF85.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/MusicAndSounds/HitSound_Auto4.uasset'
+[2025.11.07-12.14.53:532][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MusicAndSounds/HorrorBackgroundMusic] ([1] browsable assets)...
+[2025.11.07-12.14.53:558][285]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic]
+[2025.11.07-12.14.53:558][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/HorrorBackgroundMusic]
+[2025.11.07-12.14.53:588][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MusicAndSounds/HorrorBackgroundMusic_Auto4
+[2025.11.07-12.14.53:588][285]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorBackgroundMusic_Auto456C605E345AE6272E0511CA6DB458AF1.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/MusicAndSounds/HorrorBackgroundMusic_Auto4.uasset'
+[2025.11.07-12.14.53:592][285]LogFileHelpers: Auto-saving content packages took 0.122
+[2025.11.07-12.15.43:953][413]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic
+[2025.11.07-12.15.43:953][413]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic
+[2025.11.07-12.15.43:954][413]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-12.15.43:972][413]LogActorFactory: Actor Factory spawned SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic as actor: AmbientSound /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.AmbientSound_0
+[2025.11.07-12.15.43:972][413]LogActorFactory: Actor Factory spawned SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic as actor: AmbientSound /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.AmbientSound_0
+[2025.11.07-12.15.44:797][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.11.07-12.15.44:803][461]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.11.07-12.15.44:810][461]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic
+[2025.11.07-12.15.44:810][461]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic
+[2025.11.07-12.15.44:823][461]LogActorFactory: Actor Factory spawned SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic as actor: AmbientSound /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.AmbientSound_1
+[2025.11.07-12.15.44:824][461]LogActorFactory: Actor Factory spawned SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic as actor: AmbientSound /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.AmbientSound_1
+[2025.11.07-12.16.08:611][863]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.07-12.16.08:622][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-12.16.08:623][863]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.07-12.16.08:708][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085173s)
+[2025.11.07-12.16.08:708][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.085252s)
+[2025.11.07-12.16.08:729][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.07-12.16.08:733][863]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.07-12.16.08:736][863]LogPlayLevel: PIE: World Init took: (0.002929s)
+[2025.11.07-12.16.08:737][863]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.11.07-12.16.08:737][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-12.16.08:737][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-12.16.08:737][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-12.16.08:737][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-12.16.08:737][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.07-12.16.08:737][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-12.16.08:737][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.07-12.16.08:737][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-12.16.08:737][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-12.16.08:737][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-12.16.08:737][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-12.16.08:740][863]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-12.16.08:773][863]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.07-12.16.08:776][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-12.16.08:776][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-12.16.08:776][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-12.16.08:777][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.11.07-12.16.08:778][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.11.07-12.16.08:781][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.11.07-12.16.08:781][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.11.07-12.16.08:781][863]LogInit: FAudioDevice initialized with ID 13.
+[2025.11.07-12.16.08:781][863]LogAudio: Display: Audio Device (ID: 13) registered with world 'HorrorGameMap'.
+[2025.11.07-12.16.08:781][863]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.07-12.16.08:790][863]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.07-12.16.08:838][863]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 60) at 2025.11.07-13.16.08
+[2025.11.07-12.16.08:841][863]LogWorld: Bringing up level for play took: 0.050706
+[2025.11.07-12.16.08:844][863]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.11.07-12.16.08:856][863]PIE: Server logged in
+[2025.11.07-12.16.08:857][863]PIE: Play in editor total start time 0.235 seconds.
+[2025.11.07-12.16.21:480][311]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.11.07-12.16.29:533][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-12.16.29:533][792]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.07-12.16.29:535][792]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-12.16.29:546][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.16.29:553][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-12.16.29:558][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.16.29:574][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-12.16.29:577][792]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.07-12.16.29:577][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.11.07-12.16.29:578][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.11.07-12.16.29:593][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.11.07-12.16.29:668][793]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.11.07-12.16.31:710][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-12.16.31:806][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.11.07-12.16.32:059][912]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.11.07-12.16.32:068][912]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMap0B0A42E94A58F75546997F9510C376E4.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.11.07-12.16.32:091][912]LogFileHelpers: Saving map 'HorrorGameMap' took 0.329
+[2025.11.07-12.16.32:097][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 386.763 ms (total: 4.35 sec)
+[2025.11.07-12.16.32:164][912]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-12.16.32:164][912]LogContentValidation: Enabled validators:
+[2025.11.07-12.16.32:164][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-12.16.32:164][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-12.16.32:164][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-12.16.32:164][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-12.16.32:164][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-12.16.32:164][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-12.16.32:164][912]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
