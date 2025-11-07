@@ -3034,3 +3034,194 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-12.32.41:846][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.11.07-12.32.41:855][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2025.11.07-12.32.41:933][945]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.11.07-12.33.54:795][584]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.11.07-12.33.54:803][584]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.11.07-12.33.54:811][584]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.11.07-12.33.54:843][585]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.11.07-12.34.01:163][965]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UW_MainMenu
+[2025.11.07-12.34.01:175][965]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.11.07-12.34.03:112][ 79]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu.UW_MainMenu
+[2025.11.07-12.34.03:112][ 79]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.11.07-12.34.03:120][ 79]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.11.07-12.34.57:411][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.07-12.34.57:427][288]LogPlayLevel: [PlayLevel] Compiling UW_MainMenu before play...
+[2025.11.07-12.34.57:566][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.11.07-12.34.57:575][288]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2025.11.07-12.34.57:614][288]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.07-12.34.57:676][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062062s)
+[2025.11.07-12.34.57:676][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.062114s)
+[2025.11.07-12.34.57:695][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.07-12.34.57:696][288]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.07-12.34.57:697][288]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2025.11.07-12.34.57:698][288]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.11.07-12.34.57:698][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-12.34.57:698][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-12.34.57:698][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-12.34.57:698][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-12.34.57:698][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.07-12.34.57:698][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-12.34.57:698][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.07-12.34.57:698][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-12.34.57:698][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-12.34.57:698][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-12.34.57:698][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-12.34.57:700][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-12.34.57:730][288]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.07-12.34.57:730][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-12.34.57:730][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-12.34.57:730][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-12.34.57:731][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.11.07-12.34.57:731][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.11.07-12.34.57:734][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.11.07-12.34.57:734][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.11.07-12.34.57:734][288]LogInit: FAudioDevice initialized with ID 16.
+[2025.11.07-12.34.57:734][288]LogAudio: Display: Audio Device (ID: 16) registered with world 'HorrorGameMap'.
+[2025.11.07-12.34.57:734][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.07-12.34.57:737][288]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.07-12.34.57:766][288]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 60) at 2025.11.07-13.34.57
+[2025.11.07-12.34.57:768][288]LogWorld: Bringing up level for play took: 0.029923
+[2025.11.07-12.34.57:770][288]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.11.07-12.34.57:777][288]PIE: Server logged in
+[2025.11.07-12.34.57:778][288]PIE: Play in editor total start time 0.354 seconds.
+[2025.11.07-12.35.10:065][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-12.35.10:065][  5]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.07-12.35.10:067][  5]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-12.35.10:081][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.35.10:088][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-12.35.10:095][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.35.10:112][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-12.35.10:115][  5]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.07-12.35.10:115][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.11.07-12.35.10:118][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.11.07-12.35.10:133][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.07-12.35.10:229][  6]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.11.07-12.35.11:935][107]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.07-12.35.11:948][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-12.35.11:974][107]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.07-12.35.12:041][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066859s)
+[2025.11.07-12.35.12:041][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.066905s)
+[2025.11.07-12.35.12:059][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.07-12.35.12:064][107]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.07-12.35.12:066][107]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2025.11.07-12.35.12:066][107]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.11.07-12.35.12:066][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-12.35.12:066][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-12.35.12:066][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-12.35.12:066][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-12.35.12:066][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.07-12.35.12:066][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-12.35.12:066][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.07-12.35.12:066][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-12.35.12:066][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-12.35.12:066][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-12.35.12:066][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-12.35.12:070][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-12.35.12:099][107]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.07-12.35.12:099][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-12.35.12:099][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-12.35.12:099][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-12.35.12:099][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.11.07-12.35.12:099][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.11.07-12.35.12:102][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.11.07-12.35.12:102][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.11.07-12.35.12:102][107]LogInit: FAudioDevice initialized with ID 17.
+[2025.11.07-12.35.12:102][107]LogAudio: Display: Audio Device (ID: 17) registered with world 'HorrorGameMap'.
+[2025.11.07-12.35.12:102][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.07-12.35.12:105][107]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.07-12.35.12:134][107]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 60) at 2025.11.07-13.35.12
+[2025.11.07-12.35.12:136][107]LogWorld: Bringing up level for play took: 0.030988
+[2025.11.07-12.35.12:140][107]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.11.07-12.35.12:146][107]PIE: Server logged in
+[2025.11.07-12.35.12:147][107]PIE: Play in editor total start time 0.2 seconds.
+[2025.11.07-12.36.33:845][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-12.36.33:845][257]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.07-12.36.33:846][257]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-12.36.33:856][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.36.33:861][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-12.36.33:866][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.36.33:879][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-12.36.33:882][257]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.07-12.36.33:882][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.11.07-12.36.33:884][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.11.07-12.36.33:898][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.07-12.36.33:974][258]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.11.07-12.36.39:379][568]Cmd: r.ResetRenderTargetsExtent
+[2025.11.07-12.36.39:381][568]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.11.07-12.36.39:381][568]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.11.07-12.36.47:767][ 45]Cmd: r.ResetRenderTargetsExtent
+[2025.11.07-12.36.47:767][ 45]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.11.07-12.36.47:767][ 45]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.11.07-12.36.55:394][492]Cmd: ACTOR HIDE SELECTED
+[2025.11.07-12.36.56:435][549]Cmd: ACTOR HIDE SELECTED
+[2025.11.07-12.36.57:331][602]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.11.07-12.37.50:133][218]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.11.07-12.38.54:901][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11857.376953
+[2025.11.07-12.38.55:135][767]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-12.38.55:135][767]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11857.593750, Update Interval: 359.518433
+[2025.11.07-12.39.04:383][268]LogCore: Display: Tracing Screenshot "HighresScreenshot00000" taken with size: 950 x 573
+[2025.11.07-12.39.04:460][269]LogClient: High resolution screenshot saved as C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2025.11.07-12.39.06:016][361]Cmd: r.ResetRenderTargetsExtent
+[2025.11.07-12.39.06:016][361]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.11.07-12.39.06:016][361]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.11.07-12.39.33:629][507]LogShaderCompilers: Display: ================================================
+[2025.11.07-12.39.33:629][507]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.07-12.39.33:629][507]LogShaderCompilers: Display: Total job queries 484, among them cache hits 66 (13.64%), DDC hits 323 (66.74%), Duplicates 78 (16.12%)
+[2025.11.07-12.39.33:629][507]LogShaderCompilers: Display: Tracking 340 distinct input hashes that result in 213 distinct outputs (62.65%)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: RAM used: 165.71 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Shaders Compiled: 17
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Time job spent in pending queue: average 1.15 s, longest 2.79 s
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Job execution time: average 1.89 s, max 2.95 s
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Job life time (pending + execution): average 3.04 s, max 3.54
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Shader code size: average 5.978 KiB, min 2.117 KiB, max 10.602 KiB
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.56 s
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Average processing rate: 4.77 jobs/sec
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Total thread time: 7.475 s
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Total thread preprocess time: 8.289 s
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Percentage time preprocessing: 110.89%
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Effective parallelization: 2.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.43 sec, max 0.57 sec, min 0.36 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 0.34 sec, max 0.39 sec, min 0.30 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    3 times, average 0.33 sec, max 0.34 sec, min 0.31 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.33 sec, max 0.34 sec, min 0.31 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    3 times, average 0.32 sec, max 0.42 sec, min 0.26 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.25% of total time (compiled    3 times, average 0.43 sec, max 0.57 sec, min 0.36 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                                  FHitProxyVS - 13.48% of total time (compiled    3 times, average 0.34 sec, max 0.39 sec, min 0.30 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                                  FVelocityVS - 13.18% of total time (compiled    3 times, average 0.33 sec, max 0.34 sec, min 0.31 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                                  FHitProxyPS - 12.73% of total time (compiled    3 times, average 0.32 sec, max 0.42 sec, min 0.26 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display:                                                  FVelocityPS - 12.19% of total time (compiled    3 times, average 0.30 sec, max 0.37 sec, min 0.26 sec)
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: === Material stats ===
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Materials Translated:    146
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.11.07-12.39.33:630][507]LogShaderCompilers: Display: Material Translation Only: 0.05 s (27%)
+[2025.11.07-12.39.33:631][507]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.07-12.39.33:631][507]LogShaderCompilers: Display: Material Cache Hits: 26 (18%)
+[2025.11.07-12.39.33:631][507]LogShaderCompilers: Display: ================================================
+[2025.11.07-12.39.54:419][301]LogCore: Display: Tracing Screenshot "HighresScreenshot00001" taken with size: 950 x 573
+[2025.11.07-12.39.54:510][302]LogClient: High resolution screenshot saved as C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Screenshots/WindowsEditor/HighresScreenshot00001.png
+[2025.11.07-12.40.40:042][ 52]Cmd: r.ResetRenderTargetsExtent
+[2025.11.07-12.40.40:042][ 52]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.11.07-12.40.40:042][ 52]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.11.07-12.40.41:175][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-12.40.41:222][117]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MedievalDungeon/Blueprints/BP_Candle_Used_C] ([2] browsable assets)...
+[2025.11.07-12.40.41:278][117]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Used_C.BP_Candle_Used_C]
+[2025.11.07-12.40.41:278][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Blueprints/BP_Candle_Used_C]
+[2025.11.07-12.40.41:281][117]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Blueprints/BP_Candle_Used_C
+[2025.11.07-12.40.41:286][117]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_Candle_Used_CDFD1797F4B2CDDB1C5A45EB11877B866.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/MedievalDungeon/Blueprints/BP_Candle_Used_C.uasset'
+[2025.11.07-12.40.41:299][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.597 ms (total: 5.24 sec)
+[2025.11.07-12.40.41:359][117]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-12.40.41:359][117]LogContentValidation: Enabled validators:
+[2025.11.07-12.40.41:359][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-12.40.41:359][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-12.40.41:359][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-12.40.41:359][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-12.40.41:359][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-12.40.41:359][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-12.40.41:359][117]AssetCheck: /Game/MedievalDungeon/Blueprints/BP_Candle_Used_C Validating asset
