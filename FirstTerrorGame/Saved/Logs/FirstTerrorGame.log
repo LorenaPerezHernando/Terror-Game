@@ -2167,3 +2167,73 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-10.22.42:161][ 96]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2025.11.07-10.22.42:161][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.11.07-10.22.42:183][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.11.07-10.22.58:049][215]LogDerivedDataCache: C:/Users/34644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.07-10.23.01:110][224]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.07-10.23.01:128][224]LogPlayLevel: [PlayLevel] Compiling BP_HiddenZone before play...
+[2025.11.07-10.23.01:194][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.11.07-10.23.01:197][224]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2025.11.07-10.23.01:197][224]LogPlayLevel: Creating play world package: /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.07-10.23.01:255][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057793s)
+[2025.11.07-10.23.01:255][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap to /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap (0.057835s)
+[2025.11.07-10.23.01:271][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.07-10.23.01:272][224]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.07-10.23.01:274][224]LogPlayLevel: PIE: World Init took: (0.001535s)
+[2025.11.07-10.23.01:274][224]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.07-10.23.01:274][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-10.23.01:274][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-10.23.01:274][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-10.23.01:274][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-10.23.01:274][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.07-10.23.01:274][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-10.23.01:274][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.07-10.23.01:274][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-10.23.01:274][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-10.23.01:274][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-10.23.01:274][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-10.23.01:276][224]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-10.23.01:304][224]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.11.07-10.23.01:305][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-10.23.01:305][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-10.23.01:305][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-10.23.01:305][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.07-10.23.01:305][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.07-10.23.01:308][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.07-10.23.01:308][224]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.07-10.23.01:308][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.07-10.23.01:308][224]LogAudio: Display: Audio Device (ID: 7) registered with world 'HorrorGameMap'.
+[2025.11.07-10.23.01:308][224]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.07-10.23.01:311][224]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.07-10.23.01:337][224]LogWorld: Bringing World /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap.HorrorGameMap up for play (max tick rate 60) at 2025.11.07-11.23.01
+[2025.11.07-10.23.01:339][224]LogWorld: Bringing up level for play took: 0.027821
+[2025.11.07-10.23.01:342][224]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.11.07-10.23.01:347][224]PIE: Server logged in
+[2025.11.07-10.23.01:349][224]PIE: Play in editor total start time 0.221 seconds.
+[2025.11.07-10.23.35:123][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-10.23.35:123][217]LogWorld: BeginTearingDown for /Game/HorrorGameContent/Maps/UEDPIE_0_HorrorGameMap
+[2025.11.07-10.23.35:123][217]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-10.23.35:133][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-10.23.35:139][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-10.23.35:145][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-10.23.35:164][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-10.23.35:167][217]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.07-10.23.35:167][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.11.07-10.23.35:169][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.11.07-10.23.35:186][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.07-10.23.35:262][218]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.11.07-10.24.37:749][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.11.07-10.24.38:466][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-10.24.38:516][155]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_HiddenZone] ([2] browsable assets)...
+[2025.11.07-10.24.38:580][155]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_HiddenZone.BP_HiddenZone]
+[2025.11.07-10.24.38:582][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_HiddenZone]
+[2025.11.07-10.24.38:587][155]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_HiddenZone
+[2025.11.07-10.24.38:588][155]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_HiddenZone0EF046F349A061D09848EE9FAAEDAB43.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_HiddenZone.uasset'
+[2025.11.07-10.24.38:597][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.595 ms (total: 2.89 sec)
+[2025.11.07-10.24.38:660][155]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-10.24.38:660][155]LogContentValidation: Enabled validators:
+[2025.11.07-10.24.38:660][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-10.24.38:660][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-10.24.38:660][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-10.24.38:660][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-10.24.38:660][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-10.24.38:660][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-10.24.38:660][155]AssetCheck: /Game/FirstPerson/Blueprints/BP_HiddenZone Validating asset
