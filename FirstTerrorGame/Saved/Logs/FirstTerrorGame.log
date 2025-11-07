@@ -3225,3 +3225,81 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-12.40.41:359][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.07-12.40.41:359][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.07-12.40.41:359][117]AssetCheck: /Game/MedievalDungeon/Blueprints/BP_Candle_Used_C Validating asset
+[2025.11.07-12.42.51:332][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.07-12.42.51:341][389]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.039
+[2025.11.07-12.42.51:342][389]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu] ([2] browsable assets)...
+[2025.11.07-12.42.51:348][389]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu.UW_MainMenu]
+[2025.11.07-12.42.51:348][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu]
+[2025.11.07-12.42.51:352][389]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu_Auto6
+[2025.11.07-12.42.51:352][389]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_MainMenu_Auto674EBDE3D43AEA10AAB12198167D38351.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu_Auto6.uasset'
+[2025.11.07-12.42.51:353][389]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.11.07-12.42.59:842][578]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-12.42.59:898][578]LogInterchangeEngine: [Pending] Importing
+[2025.11.07-12.42.59:898][578]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Screenshots/WindowsEditor/HighresScreenshot00001.png]
+[2025.11.07-12.43.00:521][580]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-12.43.00:855][582]LogTexture: Display: Building textures: /Game/HorrorGameContent/Images/HighresScreenshot00001.HighresScreenshot00001 (BGRA8, 950x573 x1x1x1) (Required Memory Estimate: 19.688774 MB), EncodeSpeed: Fast
+[2025.11.07-12.43.01:191][582]LogInterchangeEngine: Display: Interchange import completed [C:/Users/34644/Deskt...nshots/WindowsEditor/HighresScreenshot00001.png]
+[2025.11.07-12.43.01:202][582]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.07-12.43.01:202][582]LogInterchangeEngine: [Success] Import Done
+[2025.11.07-12.43.44:053][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.07-12.43.48:346][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-12.43.48:398][ 32]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu] ([2] browsable assets)...
+[2025.11.07-12.43.48:400][ 32]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu.UW_MainMenu]
+[2025.11.07-12.43.48:400][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu]
+[2025.11.07-12.43.48:403][ 32]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu
+[2025.11.07-12.43.48:403][ 32]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_MainMenuCD6E41074626AA9566A5839115E23889.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/Widgets/UW_MainMenu.uasset'
+[2025.11.07-12.43.48:416][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.808 ms (total: 5.31 sec)
+[2025.11.07-12.43.48:480][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-12.43.48:480][ 32]LogContentValidation: Enabled validators:
+[2025.11.07-12.43.48:480][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-12.43.48:480][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-12.43.48:480][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-12.43.48:480][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-12.43.48:480][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-12.43.48:480][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-12.43.48:480][ 32]AssetCheck: /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu Validating asset
+[2025.11.07-12.44.42:726][119]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2025.11.07-12.44.43:530][167]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.07-12.44.49:245][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.11.07-12.44.49:252][492]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.07-12.44.54:993][822]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.07-12.45.49:857][ 65]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12272.239258
+[2025.11.07-12.45.50:007][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-12.45.50:007][ 74]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12272.372070, Update Interval: 329.958801
+[2025.11.07-12.46.23:482][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.07-12.46.32:250][573]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.07-12.46.51:684][701]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.07-12.47.35:527][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.11.07-12.47.35:974][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-12.47.36:027][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu] ([2] browsable assets)...
+[2025.11.07-12.47.36:031][279]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu.UW_MainMenu]
+[2025.11.07-12.47.36:031][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu]
+[2025.11.07-12.47.36:035][279]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu
+[2025.11.07-12.47.36:037][279]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_MainMenuFC595D16475EC7B504C065AA966C5DDD.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/Widgets/UW_MainMenu.uasset'
+[2025.11.07-12.47.36:046][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.067 ms (total: 5.38 sec)
+[2025.11.07-12.47.36:110][279]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-12.47.36:110][279]LogContentValidation: Enabled validators:
+[2025.11.07-12.47.36:110][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-12.47.36:110][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-12.47.36:110][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-12.47.36:110][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-12.47.36:110][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-12.47.36:110][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-12.47.36:111][279]AssetCheck: /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu Validating asset
+[2025.11.07-12.48.17:063][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.07-12.48.17:634][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-12.48.17:693][704]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu] ([2] browsable assets)...
+[2025.11.07-12.48.17:696][704]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu.UW_MainMenu]
+[2025.11.07-12.48.17:696][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/Widgets/UW_MainMenu]
+[2025.11.07-12.48.17:702][704]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu
+[2025.11.07-12.48.17:704][704]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_MainMenuD019A5D94ED839698C0ED1ABFC9393D2.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/Widgets/UW_MainMenu.uasset'
+[2025.11.07-12.48.17:715][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.448 ms (total: 5.46 sec)
+[2025.11.07-12.48.17:795][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-12.48.17:795][704]LogContentValidation: Enabled validators:
+[2025.11.07-12.48.17:795][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-12.48.17:795][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-12.48.17:795][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-12.48.17:795][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-12.48.17:795][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-12.48.17:795][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-12.48.17:795][704]AssetCheck: /Game/HorrorGameContent/BPS/Widgets/UW_MainMenu Validating asset
