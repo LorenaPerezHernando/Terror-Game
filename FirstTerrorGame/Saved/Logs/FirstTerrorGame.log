@@ -1710,3 +1710,60 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-09.56.36:370][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.07-09.56.36:370][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.07-09.56.36:370][827]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.11.07-10.00.17:336][216]Cmd: DELETE
+[2025.11.07-10.00.17:336][216]Cmd: ACTOR DELETE
+[2025.11.07-10.00.17:351][216]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2025.11.07-10.00.17:372][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.07-10.00.17:374][216]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.11.07-10.00.18:938][353]Cmd: TRANSACTION UNDO
+[2025.11.07-10.00.18:938][353]LogEditorTransaction: Undo Delete Elements
+[2025.11.07-10.00.19:272][353]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.07-10.00.19:274][353]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.07-10.00.32:712][325]Cmd: TRANSACTION UNDO
+[2025.11.07-10.00.32:712][325]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.07-10.00.32:997][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.07-10.00.32:998][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.07-10.00.36:359][589]Cmd: TRANSACTION UNDO
+[2025.11.07-10.00.36:359][589]LogEditorTransaction: Undo Move Elements
+[2025.11.07-10.00.36:659][589]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.07-10.00.36:660][589]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.07-10.01.50:323][699]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.11.07-10.01.50:333][699]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.11.07-10.01.50:346][700]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.11.07-10.01.55:451][160]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2025.11.07-10.01.55:452][160]LogContentBrowser: End creating deferred item NewInputAction
+[2025.11.07-10.01.58:537][289]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/FirstPerson/Input/Actions/IA_Interact.IA_Interact
+[2025.11.07-10.02.05:573][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-10.02.05:618][ 86]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2025.11.07-10.02.05:618][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Input/Actions/IA_Interact]
+[2025.11.07-10.02.05:619][ 86]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/Actions/IA_Interact
+[2025.11.07-10.02.05:619][ 86]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/IA_Interact37FD4BE14C1FFCE2CC8E6AA53750BD23.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Input/Actions/IA_Interact.uasset'
+[2025.11.07-10.02.05:628][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.434 ms (total: 714.167 ms)
+[2025.11.07-10.02.05:688][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-10.02.05:688][ 86]LogContentValidation: Enabled validators:
+[2025.11.07-10.02.05:688][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-10.02.05:688][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-10.02.05:688][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-10.02.05:688][ 86]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-10.02.05:688][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-10.02.05:688][ 86]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-10.02.05:688][ 86]AssetCheck: /Game/FirstPerson/Input/Actions/IA_Interact Validating asset
+[2025.11.07-10.02.15:930][ 38]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2025.11.07-10.02.47:901][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-10.02.47:954][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Input/IMC_Default] ([1] browsable assets)...
+[2025.11.07-10.02.47:954][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Input/IMC_Default]
+[2025.11.07-10.02.47:956][650]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Default
+[2025.11.07-10.02.47:958][650]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/IMC_Default766EFB90480795F4CCDFAD994ADA67E6.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Input/IMC_Default.uasset'
+[2025.11.07-10.02.47:967][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.770 ms (total: 779.937 ms)
+[2025.11.07-10.02.48:024][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-10.02.48:024][650]LogContentValidation: Enabled validators:
+[2025.11.07-10.02.48:024][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-10.02.48:024][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-10.02.48:024][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-10.02.48:024][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-10.02.48:024][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-10.02.48:024][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-10.02.48:025][650]AssetCheck: /Game/FirstPerson/Input/IMC_Default Validating asset
+[2025.11.07-10.02.52:059][775]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2494.802490
+[2025.11.07-10.02.53:056][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-10.02.53:056][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2495.469238, Update Interval: 316.798615
