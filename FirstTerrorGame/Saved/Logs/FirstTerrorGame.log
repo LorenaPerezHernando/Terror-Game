@@ -1406,3 +1406,119 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-09.26.40:283][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 323.011932
 [2025.11.07-09.26.41:280][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.07-09.26.41:280][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 323.679382, Update Interval: 339.105194
+[2025.11.07-09.32.23:205][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 665.933594
+[2025.11.07-09.32.24:204][952]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-09.32.24:204][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 666.600708, Update Interval: 331.678223
+[2025.11.07-09.33.51:235][214]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.07-09.33.51:235][214]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.07-09.33.51:243][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.07-09.33.51:243][215]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.07-09.33.51:252][216]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.07-09.33.51:252][216]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.07-09.33.51:260][217]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.07-09.33.51:260][217]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.07-09.33.51:268][218]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0038
+[2025.11.07-09.33.51:268][218]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	BPAnim_Enemy_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BPAnim_Enemy_C_0
+	Function /Game/HorrorGameContent/Enemy/Animations/BPAnim_Enemy.BPAnim_Enemy_C:ExecuteUbergraph_BPAnim_Enemy:0077
+[2025.11.07-09.34.12:799][642]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.07-09.34.48:298][669]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 34.63 ms. Compile time 32.01 ms, link time 2.56 ms.
+[2025.11.07-09.34.48:349][669]LogD3D12RHI: Creating RTPSO with 22 shaders (0 cached, 22 new) took 99.09 ms. Compile time 88.29 ms, link time 10.78 ms.
+[2025.11.07-09.34.53:715][ 14]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-09.34.53:728][ 14]LogStaticMesh: Display: Building static mesh SM_Coffin_No_Lid (Required Memory Estimate: 0.71736 MB)...
+[2025.11.07-09.34.53:740][ 14]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2025.11.07-09.34.53:894][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2025.11.07-09.34.53:894][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2025.11.07-09.34.53:896][ 20]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid as actor: StaticMeshActor /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.StaticMeshActor_0
+[2025.11.07-09.34.54:224][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.07-09.34.54:228][ 36]LogEditorActor: Deleted 0 Actors (0.075 secs)
+[2025.11.07-09.34.54:238][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2025.11.07-09.34.54:238][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2025.11.07-09.34.54:245][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid as actor: StaticMeshActor /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.StaticMeshActor_1
+[2025.11.07-09.35.13:560][171]Cmd: DELETE
+[2025.11.07-09.35.13:560][171]Cmd: ACTOR DELETE
+[2025.11.07-09.35.13:586][171]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.07-09.35.13:602][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.07-09.35.13:604][171]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.11.07-09.35.29:369][934]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.07-09.35.35:420][215]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.07-09.35.35:429][215]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.07-09.35.35:439][215]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.07-09.35.35:467][216]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.07-09.35.47:558][180]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HiddenZone
+[2025.11.07-09.35.47:567][180]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.07-09.35.49:429][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_HiddenZone.BP_HiddenZone
+[2025.11.07-09.35.49:429][324]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.07-09.35.53:079][419]LogSlate: Window 'BP_HiddenZone' being destroyed
+[2025.11.07-09.35.54:516][535]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-09.35.54:516][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-09.35.54:585][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.07-09.36.20:402][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.07-09.36.20:644][886]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorGameContent/Maps/HorrorGameMap_Auto1
+[2025.11.07-09.36.20:646][886]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMap_Auto1B356B9964C7A002411BB61A996259AA2.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/HorrorGameContent/Maps/HorrorGameMap_Auto1.umap'
+[2025.11.07-09.36.20:652][886]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.266
+[2025.11.07-09.36.20:652][886]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.266
+[2025.11.07-09.36.20:652][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_HiddenZone] ([2] browsable assets)...
+[2025.11.07-09.36.20:654][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_HiddenZone]
+[2025.11.07-09.36.20:656][886]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_HiddenZone_Auto1
+[2025.11.07-09.36.20:656][886]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_HiddenZone_Auto1538BB8574EECFB64C7B89B8031B3FE3B.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_HiddenZone_Auto1.uasset'
+[2025.11.07-09.36.20:657][886]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.11.07-09.38.01:684][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1004.414673
+[2025.11.07-09.38.01:832][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-09.38.01:832][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1004.550964, Update Interval: 355.268402
+[2025.11.07-09.44.05:770][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1368.501953
+[2025.11.07-09.44.05:915][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-09.44.05:915][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1368.637085, Update Interval: 317.589661
+[2025.11.07-09.44.21:319][737]LogSlate: Took 0.007291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.07-09.44.40:271][585]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.07-09.44.55:506][ 72]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-09.44.55:510][ 72]LogStaticMesh: Display: Building static mesh SM_Coffin_Lid (Required Memory Estimate: 0.202101 MB)...
+[2025.11.07-09.44.55:516][ 72]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Coffin_Lid.SM_Coffin_Lid
+[2025.11.07-09.45.20:687][ 95]LogSlate: Took 0.018711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.07-09.45.21:041][124]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.07-09.47.18:271][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.07-09.47.18:274][210]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorGameContent/Maps/HorrorGameMap' took 0.026
+[2025.11.07-09.47.18:275][210]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_HiddenZone] ([2] browsable assets)...
+[2025.11.07-09.47.18:286][210]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_HiddenZone.BP_HiddenZone]
+[2025.11.07-09.47.18:286][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_HiddenZone]
+[2025.11.07-09.47.18:290][210]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_HiddenZone_Auto2
+[2025.11.07-09.47.18:290][210]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_HiddenZone_Auto27C5D3FAD420376D44A6CE0BF7970B4A3.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_HiddenZone_Auto2.uasset'
+[2025.11.07-09.47.18:293][210]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.11.07-09.49.55:556][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1718.278564
+[2025.11.07-09.49.55:673][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-09.49.55:673][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1718.386963, Update Interval: 334.238098
+[2025.11.07-09.53.45:618][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.07-09.53.46:559][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-09.53.46:609][704]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_HiddenZone] ([2] browsable assets)...
+[2025.11.07-09.53.46:662][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_HiddenZone.BP_HiddenZone]
+[2025.11.07-09.53.46:662][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_HiddenZone]
+[2025.11.07-09.53.46:668][704]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_HiddenZone
+[2025.11.07-09.53.46:668][704]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_HiddenZoneB3994FD842000E12D6B54C8E0B920770.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/FirstPerson/Blueprints/BP_HiddenZone.uasset'
+[2025.11.07-09.53.46:682][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.691 ms
+[2025.11.07-09.53.46:754][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-09.53.46:754][704]LogContentValidation: Enabled validators:
+[2025.11.07-09.53.46:756][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-09.53.46:756][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-09.53.46:756][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-09.53.46:756][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-09.53.46:756][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-09.53.46:756][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-09.53.46:756][704]AssetCheck: /Game/FirstPerson/Blueprints/BP_HiddenZone Validating asset
