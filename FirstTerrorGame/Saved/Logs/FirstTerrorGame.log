@@ -2575,3 +2575,123 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-10.27.57:145][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.07-10.27.57:145][ 53]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.07-10.27.57:145][ 53]AssetCheck: /Game/FirstPerson/Blueprints/BP_HiddenZone Validating asset
+[2025.11.07-10.28.22:628][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-10.28.22:725][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.07-10.28.22:975][820]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.11.07-10.28.22:979][820]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMap2296A8FE44A52285B2A1C2B8A737A33E.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.11.07-10.28.22:996][820]LogFileHelpers: Saving map 'HorrorGameMap' took 0.313
+[2025.11.07-10.28.23:002][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 373.415 ms (total: 3.96 sec)
+[2025.11.07-10.28.23:067][820]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-10.28.23:069][820]LogContentValidation: Enabled validators:
+[2025.11.07-10.28.23:069][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-10.28.23:069][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-10.28.23:069][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-10.28.23:069][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-10.28.23:069][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-10.28.23:069][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-10.28.23:069][820]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
+[2025.11.07-10.33.01:725][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4304.488281
+[2025.11.07-10.33.02:722][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-10.33.02:722][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4305.154297, Update Interval: 332.489380
+[2025.11.07-10.39.21:231][ 91]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4684.000488
+[2025.11.07-10.39.22:228][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-10.39.22:228][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4684.665039, Update Interval: 349.218414
+[2025.11.07-10.45.59:103][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5081.875488
+[2025.11.07-10.46.00:101][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-10.46.00:101][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5082.541016, Update Interval: 358.839081
+[2025.11.07-10.52.30:361][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5473.130371
+[2025.11.07-10.52.31:365][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-10.52.31:365][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5473.802734, Update Interval: 329.387482
+[2025.11.07-10.58.47:649][583]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5850.416016
+[2025.11.07-10.58.48:650][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-10.58.48:650][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5851.083496, Update Interval: 331.874146
+[2025.11.07-11.05.11:777][734]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6234.549805
+[2025.11.07-11.05.12:778][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.05.12:778][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6235.214355, Update Interval: 348.302856
+[2025.11.07-11.11.54:944][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6637.715820
+[2025.11.07-11.11.55:945][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.11.55:945][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6638.383789, Update Interval: 318.140808
+[2025.11.07-11.18.07:095][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7009.882812
+[2025.11.07-11.18.08:099][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.18.08:099][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7010.544922, Update Interval: 324.524048
+[2025.11.07-11.19.56:792][388]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 920...b61
+[2025.11.07-11.19.56:792][388]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.97 RefreshExpires: 1.554e+07
+[2025.11.07-11.19.57:793][391]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 920...b61 Access[Expires: 2025.11.07-13.19.57 Remaining: 7200.17] Refresh[Expires: 2026-05-06T09:21:35.971Z Remaining: 15544898.97] State: Valid
+[2025.11.07-11.22.58:050][931]LogDerivedDataCache: C:/Users/34644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.07-11.24.30:563][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7393.354492
+[2025.11.07-11.24.31:567][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.24.31:567][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7394.021973, Update Interval: 334.144714
+[2025.11.07-11.30.36:420][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7759.205566
+[2025.11.07-11.30.37:422][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.30.37:422][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7759.874023, Update Interval: 328.015991
+[2025.11.07-11.36.49:236][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8132.028320
+[2025.11.07-11.36.50:236][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.36.50:236][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8132.696289, Update Interval: 311.303436
+[2025.11.07-11.42.36:353][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8479.133789
+[2025.11.07-11.42.37:354][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.42.37:354][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8479.799805, Update Interval: 304.674835
+[2025.11.07-11.48.33:184][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8835.962891
+[2025.11.07-11.48.34:184][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.48.34:184][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8836.631836, Update Interval: 318.607758
+[2025.11.07-11.54.37:366][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9200.127930
+[2025.11.07-11.54.38:365][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-11.54.38:365][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9200.793945, Update Interval: 322.822968
+[2025.11.07-12.00.41:166][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9563.918945
+[2025.11.07-12.00.42:170][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-12.00.42:170][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9564.584961, Update Interval: 318.468567
+[2025.11.07-12.06.48:591][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9931.329102
+[2025.11.07-12.06.49:589][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-12.06.49:589][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9931.995117, Update Interval: 333.903015
+[2025.11.07-12.13.03:333][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10306.062500
+[2025.11.07-12.13.04:334][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-12.13.04:334][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10306.727539, Update Interval: 321.594299
+[2025.11.07-12.13.54:216][326]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.07-12.13.54:225][326]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.07-12.13.54:241][327]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.07-12.14.02:432][818]LogContentBrowser: Attempting asset rename: NewFolder -> MusicAndSounds
+[2025.11.07-12.14.02:433][818]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.07-12.14.10:274][982]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-12.14.10:314][982]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\34644\Downloads\JuegoTerrorUnrealSonidosYMusica\JuegoTerrorUnrealSonidosYMusica\JumpScareSound.mp3)
+[2025.11.07-12.14.10:347][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave JumpScareSound...
+[2025.11.07-12.14.10:364][982]LogAudioDerivedData: Display: JumpScareSound compressed to 12.24% (from 804KB to 98KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:365][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/JumpScareSound.JumpScareSound: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=100791 bytes, ChunkN=0)
+[2025.11.07-12.14.10:367][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave JumpScareSound...
+[2025.11.07-12.14.10:373][982]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\34644\Downloads\JuegoTerrorUnrealSonidosYMusica\JuegoTerrorUnrealSonidosYMusica\BurningCandleSound.mp3)
+[2025.11.07-12.14.10:382][982]LogAudioDerivedData: Display: JumpScareSound compressed to 12.24% (from 804KB to 98KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:382][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/JumpScareSound.JumpScareSound: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=100791 bytes, ChunkN=0)
+[2025.11.07-12.14.10:388][982]Imported audio has DC offsets larger than 100 at the end of 1 channel - may pop and not loop well: 'BurningCandleSound'
+[2025.11.07-12.14.10:390][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave BurningCandleSound...
+[2025.11.07-12.14.10:428][982]LogAudioDerivedData: Display: BurningCandleSound compressed to 15.69% (from 1,724KB to 270KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:430][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/BurningCandleSound.BurningCandleSound: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262039 bytes, ChunkN=14927)
+[2025.11.07-12.14.10:431][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave BurningCandleSound...
+[2025.11.07-12.14.10:433][982]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\34644\Downloads\JuegoTerrorUnrealSonidosYMusica\JuegoTerrorUnrealSonidosYMusica\EnemyVoices.mp3)
+[2025.11.07-12.14.10:470][982]LogAudioDerivedData: Display: BurningCandleSound compressed to 15.69% (from 1,724KB to 270KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:471][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/BurningCandleSound.BurningCandleSound: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262039 bytes, ChunkN=14927)
+[2025.11.07-12.14.10:484][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave EnemyVoices...
+[2025.11.07-12.14.10:573][982]LogAudioDerivedData: Display: EnemyVoices compressed to 6.00% (from 5,484KB to 328KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:574][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/EnemyVoices.EnemyVoices: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261387 bytes, ChunkN=75487)
+[2025.11.07-12.14.10:575][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave EnemyVoices...
+[2025.11.07-12.14.10:577][982]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\34644\Downloads\JuegoTerrorUnrealSonidosYMusica\JuegoTerrorUnrealSonidosYMusica\FootStepsSound.wav)
+[2025.11.07-12.14.10:578][982]Imported audio has DC offsets larger than 100 at the end of 2 channels - may pop and not loop well: 'FootStepsSound'
+[2025.11.07-12.14.10:580][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave FootStepsSound...
+[2025.11.07-12.14.10:599][982]LogAudioDerivedData: Display: FootStepsSound compressed to 14.04% (from 807KB to 113KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:599][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/FootStepsSound.FootStepsSound: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=116111 bytes, ChunkN=0)
+[2025.11.07-12.14.10:600][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave FootStepsSound...
+[2025.11.07-12.14.10:607][982]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\34644\Downloads\JuegoTerrorUnrealSonidosYMusica\JuegoTerrorUnrealSonidosYMusica\HitSound.mp3)
+[2025.11.07-12.14.10:610][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave HitSound...
+[2025.11.07-12.14.10:613][982]LogAudioDerivedData: Display: HitSound compressed to 9.87% (from 160KB to 15KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:613][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/HitSound.HitSound: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=16159 bytes, ChunkN=0)
+[2025.11.07-12.14.10:614][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave HitSound...
+[2025.11.07-12.14.10:617][982]LogAudioDerivedData: Display: HitSound compressed to 9.87% (from 160KB to 15KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:617][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/HitSound.HitSound: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=16159 bytes, ChunkN=0)
+[2025.11.07-12.14.10:618][982]LogAudioDerivedData: Display: FootStepsSound compressed to 14.04% (from 807KB to 113KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:618][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/FootStepsSound.FootStepsSound: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=116111 bytes, ChunkN=0)
+[2025.11.07-12.14.10:626][982]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\34644\Downloads\JuegoTerrorUnrealSonidosYMusica\JuegoTerrorUnrealSonidosYMusica\HorrorBackgroundMusic.mp3)
+[2025.11.07-12.14.10:667][982]LogAudioDerivedData: Display: EnemyVoices compressed to 6.00% (from 5,484KB to 328KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.10:668][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/EnemyVoices.EnemyVoices: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261387 bytes, ChunkN=75487)
+[2025.11.07-12.14.10:822][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave HorrorBackgroundMusic...
+[2025.11.07-12.14.11:230][982]LogAudioDerivedData: Display: HorrorBackgroundMusic compressed to 14.07% (from 19,316KB to 2,717KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.11:233][982]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=12, Chunk0=28 bytes, Chunk1=261933 bytes, ChunkN=261353)
+[2025.11.07-12.14.11:239][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave HorrorBackgroundMusic...
+[2025.11.07-12.14.11:648][984]LogAudioDerivedData: Display: HorrorBackgroundMusic compressed to 14.07% (from 19,316KB to 2,717KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.07-12.14.11:651][984]LogAudio: Display: Chunk stats for (SoundWave /Game/MusicAndSounds/HorrorBackgroundMusic.HorrorBackgroundMusic: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=12, Chunk0=28 bytes, Chunk1=261933 bytes, ChunkN=261353)
