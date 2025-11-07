@@ -3802,3 +3802,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-13.00.52:033][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.07-13.00.52:033][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.07-13.00.52:033][815]AssetCheck: /Game/HorrorGameContent/BPS/Widgets/UW_Win Validating asset
+[2025.11.07-13.01.45:234][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
