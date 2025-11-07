@@ -3689,3 +3689,116 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-12.57.25:248][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.07-12.57.25:248][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.07-12.57.25:248][386]AssetCheck: /Game/HorrorGameContent/BPS/Widgets/UW_Win Validating asset
+[2025.11.07-12.57.48:015][680]LogSlate: Took 0.015079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.07-12.57.51:460][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12993.485352
+[2025.11.07-12.57.51:625][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-12.57.51:625][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12993.635742, Update Interval: 301.875061
+[2025.11.07-12.57.51:670][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.07-12.57.55:270][892]LogSlate: Window 'Save Content' being destroyed
+[2025.11.07-12.57.55:283][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-12.57.55:352][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MusicAndSounds/BurningCandleSound] ([1] browsable assets)...
+[2025.11.07-12.57.55:352][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/BurningCandleSound]
+[2025.11.07-12.57.55:359][892]LogSavePackage: Moving output files for package: /Game/MusicAndSounds/BurningCandleSound
+[2025.11.07-12.57.55:359][892]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BurningCandleSound009785F04F209285C4E905B3A8D844DE.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/MusicAndSounds/BurningCandleSound.uasset'
+[2025.11.07-12.57.55:363][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MusicAndSounds/EnemyVoices] ([1] browsable assets)...
+[2025.11.07-12.57.55:363][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/EnemyVoices]
+[2025.11.07-12.57.55:374][892]LogSavePackage: Moving output files for package: /Game/MusicAndSounds/EnemyVoices
+[2025.11.07-12.57.55:374][892]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/EnemyVoices6013953240294485548DED8591B78524.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/MusicAndSounds/EnemyVoices.uasset'
+[2025.11.07-12.57.55:377][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MusicAndSounds/FootStepsSound] ([1] browsable assets)...
+[2025.11.07-12.57.55:377][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/FootStepsSound]
+[2025.11.07-12.57.55:381][892]LogSavePackage: Moving output files for package: /Game/MusicAndSounds/FootStepsSound
+[2025.11.07-12.57.55:381][892]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/FootStepsSoundE41CC6544E564209670E77A40FE51D51.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/MusicAndSounds/FootStepsSound.uasset'
+[2025.11.07-12.57.55:384][892]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorGameContent/Images/HighresScreenshot00001] ([1] browsable assets)...
+[2025.11.07-12.57.55:386][892]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HorrorGameContent/Images/HighresScreenshot00001.HighresScreenshot00001]
+[2025.11.07-12.57.55:386][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/Images/HighresScreenshot00001]
+[2025.11.07-12.57.55:399][892]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Images/HighresScreenshot00001
+[2025.11.07-12.57.55:399][892]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HighresScreenshot000010A35A50F4175B145C46ACEA028CFEBA1.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Images/HighresScreenshot00001.uasset'
+[2025.11.07-12.57.55:403][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MusicAndSounds/HitSound] ([1] browsable assets)...
+[2025.11.07-12.57.55:403][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/HitSound]
+[2025.11.07-12.57.55:405][892]LogSavePackage: Moving output files for package: /Game/MusicAndSounds/HitSound
+[2025.11.07-12.57.55:405][892]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HitSound85CD858C413DFD31777E79B866A599F4.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/MusicAndSounds/HitSound.uasset'
+[2025.11.07-12.57.55:408][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MusicAndSounds/HorrorBackgroundMusic] ([1] browsable assets)...
+[2025.11.07-12.57.55:408][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/HorrorBackgroundMusic]
+[2025.11.07-12.57.55:440][892]LogSavePackage: Moving output files for package: /Game/MusicAndSounds/HorrorBackgroundMusic
+[2025.11.07-12.57.55:440][892]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorBackgroundMusic8DF8681B40F38E46DBE19E8C83C37FB7.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/MusicAndSounds/HorrorBackgroundMusic.uasset'
+[2025.11.07-12.57.55:442][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MusicAndSounds/JumpScareSound] ([1] browsable assets)...
+[2025.11.07-12.57.55:442][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/MusicAndSounds/JumpScareSound]
+[2025.11.07-12.57.55:446][892]LogSavePackage: Moving output files for package: /Game/MusicAndSounds/JumpScareSound
+[2025.11.07-12.57.55:446][892]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/JumpScareSound0684850349E1CB53E9481AADB94129D2.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/MusicAndSounds/JumpScareSound.uasset'
+[2025.11.07-12.57.55:522][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.624 ms (total: 18.0 sec)
+[2025.11.07-12.57.55:524][892]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-12.57.55:604][892]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.07-12.57.55:715][892]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap
+[2025.11.07-12.57.55:718][892]Cmd: MAP LOAD FILE="../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.07-12.57.55:767][892]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-12.57.55:767][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.57.55:805][892]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-12.57.55:805][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.57.55:826][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.07-12.57.55:831][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.11.07-12.57.55:843][892]LogWorld: UWorld::CleanupWorld for HorrorGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-12.57.55:847][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-12.57.55:874][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.11.07-12.57.55:893][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.07-12.57.55:968][892]LogAudio: Display: Audio Device (ID: 1) registered with world 'HorrorGameMap'.
+[2025.11.07-12.57.55:968][892]LogChaosDD: Creating Chaos Debug Draw Scene for world HorrorGameMap
+[2025.11.07-12.57.56:173][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.07-12.57.56:217][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.11.07-12.57.56:229][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.07-12.57.56:230][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.343ms to complete.
+[2025.11.07-12.57.56:316][892]LogContentValidation: Display: Starting to validate 7 assets
+[2025.11.07-12.57.56:316][892]LogContentValidation: Enabled validators:
+[2025.11.07-12.57.56:316][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-12.57.56:316][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-12.57.56:316][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-12.57.56:316][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-12.57.56:316][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-12.57.56:316][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-12.57.56:316][892]AssetCheck: /Game/MusicAndSounds/BurningCandleSound Validating asset
+[2025.11.07-12.57.56:316][892]AssetCheck: /Game/MusicAndSounds/EnemyVoices Validating asset
+[2025.11.07-12.57.56:316][892]AssetCheck: /Game/MusicAndSounds/FootStepsSound Validating asset
+[2025.11.07-12.57.56:316][892]AssetCheck: /Game/HorrorGameContent/Images/HighresScreenshot00001 Validating asset
+[2025.11.07-12.57.56:316][892]AssetCheck: /Game/MusicAndSounds/HitSound Validating asset
+[2025.11.07-12.57.56:316][892]AssetCheck: /Game/MusicAndSounds/HorrorBackgroundMusic Validating asset
+[2025.11.07-12.57.56:316][892]AssetCheck: /Game/MusicAndSounds/JumpScareSound Validating asset
+[2025.11.07-12.57.56:345][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.07-12.58.26:908][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HorrorGameContent/BPS/BP_MyOpenDoor.BP_MyOpenDoor
+[2025.11.07-12.58.26:908][298]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.11.07-12.58.27:218][298]LogSlate: Took 0.006586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.07-12.59.44:908][814]LogBlueprint: Error: [AssetLog] C:\Users\34644\Desktop\MIS JUEGOS\Unreal\First-Terror-Game\FirstTerrorGame\Content\HorrorGameContent\BPS\BP_MyOpenDoor.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2025.11.07-12.59.44:912][814]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-12.59.44:993][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.11.07-13.00.07:371][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.11.07-13.00.08:293][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-13.00.08:346][317]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/BP_MyOpenDoor] ([2] browsable assets)...
+[2025.11.07-13.00.08:409][317]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorGameContent/BPS/BP_MyOpenDoor.BP_MyOpenDoor]
+[2025.11.07-13.00.08:409][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/BP_MyOpenDoor]
+[2025.11.07-13.00.08:418][317]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/BP_MyOpenDoor
+[2025.11.07-13.00.08:419][317]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/BP_MyOpenDoor38226CC642C29883AA7CF99F22046E6A.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/BP_MyOpenDoor.uasset'
+[2025.11.07-13.00.08:431][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.910 ms (total: 18.2 sec)
+[2025.11.07-13.00.08:500][317]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-13.00.08:500][317]LogContentValidation: Enabled validators:
+[2025.11.07-13.00.08:500][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-13.00.08:500][317]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-13.00.08:500][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-13.00.08:500][317]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-13.00.08:500][317]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-13.00.08:500][317]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-13.00.08:500][317]AssetCheck: /Game/HorrorGameContent/BPS/BP_MyOpenDoor Validating asset
+[2025.11.07-13.00.51:194][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.07-13.00.51:886][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-13.00.51:943][815]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HorrorGameContent/BPS/Widgets/UW_Win] ([2] browsable assets)...
+[2025.11.07-13.00.51:945][815]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HorrorGameContent/BPS/Widgets/UW_Win.UW_Win]
+[2025.11.07-13.00.51:945][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorGameContent/BPS/Widgets/UW_Win]
+[2025.11.07-13.00.51:950][815]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/BPS/Widgets/UW_Win
+[2025.11.07-13.00.51:954][815]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/UW_Win169400CC434A4B2BED94C393FE1ECE1A.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/BPS/Widgets/UW_Win.uasset'
+[2025.11.07-13.00.51:964][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.614 ms (total: 18.2 sec)
+[2025.11.07-13.00.52:033][815]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-13.00.52:033][815]LogContentValidation: Enabled validators:
+[2025.11.07-13.00.52:033][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-13.00.52:033][815]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-13.00.52:033][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-13.00.52:033][815]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-13.00.52:033][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-13.00.52:033][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-13.00.52:033][815]AssetCheck: /Game/HorrorGameContent/BPS/Widgets/UW_Win Validating asset
