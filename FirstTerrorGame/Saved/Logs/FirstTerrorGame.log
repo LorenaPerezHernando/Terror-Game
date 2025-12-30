@@ -1475,3 +1475,19 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.30-10.29.26:694][250]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorGameContent/Maps/BP_ExportLevel.BP_ExportLevel_C
 [2025.12.30-10.29.26:703][250]LogActorFactory: Actor Factory spawned Blueprint /Game/HorrorGameContent/Maps/BP_ExportLevel.BP_ExportLevel as actor: BP_ExportLevel_C /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.BP_ExportLevel_C_2
 [2025.12.30-10.29.26:704][250]LogActorFactory: Actor Factory spawned Blueprint /Game/HorrorGameContent/Maps/BP_ExportLevel.BP_ExportLevel as actor: BP_ExportLevel_C /Game/HorrorGameContent/Maps/HorrorGameMap.HorrorGameMap:PersistentLevel.BP_ExportLevel_C_2
+[2025.12.30-10.30.37:732][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.12.30-10.30.37:740][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.30-10.30.37:942][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.12.30-10.30.38:389][ 69]LogSavePackage: Moving output files for package: /Game/HorrorGameContent/Maps/HorrorGameMap
+[2025.12.30-10.30.38:392][ 69]LogSavePackage: Moving '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Saved/HorrorGameMapD6B8419840C0E729B70591A38F6638F3.tmp' to '../../../../../../Users/34644/Desktop/MIS JUEGOS/Unreal/First-Terror-Game/FirstTerrorGame/Content/HorrorGameContent/Maps/HorrorGameMap.umap'
+[2025.12.30-10.30.38:429][ 69]LogFileHelpers: Saving map 'HorrorGameMap' took 0.569
+[2025.12.30-10.30.38:445][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 703.983 ms (total: 1.04 sec)
+[2025.12.30-10.30.38:586][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.30-10.30.38:586][ 69]LogContentValidation: Enabled validators:
+[2025.12.30-10.30.38:586][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.30-10.30.38:586][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.30-10.30.38:586][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.30-10.30.38:586][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.30-10.30.38:586][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.30-10.30.38:586][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.30-10.30.38:588][ 69]AssetCheck: /Game/HorrorGameContent/Maps/HorrorGameMap Validating asset
